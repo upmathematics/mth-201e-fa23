@@ -1,14 +1,21 @@
 ---
 title: "Tentative Topics Schedule"
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 201E Calculus I - Syllabus}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: yes
+    number_section: no
+urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-source(file.path("R","functions.R"))
-```
-
-```{r echo=FALSE}
-create_footer()
 ```
 
 <br>
