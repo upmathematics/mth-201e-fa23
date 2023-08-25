@@ -54,7 +54,7 @@ In-person lectures and discussions will occur synchronously during their schedul
 
 The syllabus, tentative topics schedule, assignments, and all other class materials are posted on the course website.
 
-> You can access the course website at [upmathematics.github.io/mth-201e-fa23](https://upmathematics.github.io/mth-201e-fa23/). The website can also be viewed in Teams.
+> You can access the course website at [mth-201e-fa23](https://upmathematics.github.io/mth-201e-fa23/){target="_blank"}. The website can also be viewed in Teams.
 
 ### Microsoft Teams
 
@@ -84,6 +84,8 @@ It is easy for me to get notice of your email if you put the keyword in the subj
 Calculus: Single Variable (7th ed), by Hughes-Hallett, Gleason, McCallum, et al (Wiley, 2009).
 
 > It is not necessary to purchase the textbook.
+
+<br>
 
 ## **Learning Goals**
 
@@ -166,11 +168,11 @@ My walk-in help hours start week 2. Note that you can bring a fellow student wit
 
 ### The Learning Commons
 
-Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website at [up.edu/learningcommons](www.up.edu/learningcommons){target="_blank"}. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the [Learning Commons](www.up.edu/learningcommons){target="_blank"} website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
 
 ### Math Resource Center
 
-Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the Math Resource Center website at  [up.edu/learningcommons/math-resource-center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 6:30 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 6:30 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
 
 ### Getting Help
 
@@ -259,7 +261,7 @@ You will be required to complete an online homework via WeBWork. Homework is due
 > Here is how you can access WeBWork:
 >
 > * You are already on WeBWork.
-> * Just log in using your UP credentials at [webwork.up.edu/webwork2/MTH201Quijano-F23](https://webwork.up.edu/webwork2/MTH201Quijano-F23/){target="_blank"}.
+> * Just log in using your UP credentials at [WeBWork MTH201Quijano-F23](https://webwork.up.edu/webwork2/MTH201Quijano-F23/){target="_blank"}.
 
 Homework is graded automatically. It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
 
@@ -353,7 +355,7 @@ Here are the rules on quiz retakes:
   
 > Here is how you can schedule quiz retakes:
 >
-> * Calculus I Quiz Retakes <br> [calendly.com/alexjohnquijano/calculus1-quizretakes](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
+> * [Calculus I Quiz Retakes](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
 
 If you need more than 30 minutes to take the quiz, you can book at least two consecutive sessions.
   
@@ -370,7 +372,7 @@ Here are the rules of make-up quizzes:
   
 > Here is how you can schedule makeup quizzes:
 >
-> * Calculus I Make-up Quiz <br> [calendly.com/alexjohnquijano/calculus1-quizretakes](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
+> * [Calculus I Make-up Quiz](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
   
 If you need more than 30 minutes to take the quiz, you can book at least two consecutive sessions.
   
