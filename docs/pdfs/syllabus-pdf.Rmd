@@ -1,0 +1,476 @@
+---
+title: '**Calculus I Syllabus**'
+author: |
+  | MTH-201 Section E
+  | University of Portland
+  | Alex John Quijano
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 201E Calculus I - Syllabus}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: yes
+    number_section: no
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## **About the Class**
+
+### Course Information
+
+> * Title: MTH 201: Calculus I
+> * Section: E
+
+### Instructor Information
+
+> * Instructor: Alex John Quijano
+> * Office: Buckley Center 279
+> * Email: quijano@up.edu
+
+### Prerequisites
+
+MTH 112 or a passing score on the math placement test.
+
+### Lectures and Discussions
+
+In-person lectures and discussions will occur synchronously during their scheduled time on Monday, Wednesday, and Thursday. Fridays are for learning target assessments or proficiency quizzes. Our lectures will typically consist of traditional lectures in the first 20 to 30 minutes of class, then followed by a mini-activities in a form of group work, discussions, or worksheets.
+
+> The course schedule and location is:
+>
+> * MWF 12:30 PM - 1:25 PM, Buckley Center 207
+> * Th 12:55 PM - 1:50 PM, Franz Hall 222
+
+### Class Website
+
+The syllabus, tentative topics schedule, assignments, and all other class materials are posted on the course website.
+
+> You can access the course website at [upmathematics.github.io/mth-201e-fa23](https://upmathematics.github.io/mth-201e-fa23/). The website can also be viewed in Teams.
+
+### Microsoft Teams
+
+We will be using Teams as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance. 
+
+> The Teams for this course is [mth-201e-sp23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
+
+### Graphing Calculator
+
+We will be using Desmos as our online graphing calculator for our in-class activities, and sometimes for outside of class activities.
+
+> Here is how you can access Desmos:
+>
+> * Use your UP email to sign-up for a free Desmos account and join our Desmos class [MTH-201E: Calculus I Fall 2023 [Quijano]](https://student.desmos.com/?prepopulateCode=jfme6s){target="_blank"}
+> * If you need the Desmos class code, use **JFME6S**.
+
+### Email
+
+My UP email is **quijano@up.edu**. 
+
+> If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 201” keyword in your subject line. 
+
+It is easy for me to get notice of your email if you put the keyword in the subject line. Concise and specific messages are helpful, so I know how I can best help you.
+
+### Textbook
+
+Calculus: Single Variable (7th ed), by Hughes-Hallett, Gleason, McCallum, et al (Wiley, 2009).
+
+> It is not necessary to purchase the textbook.
+
+## **Learning Goals**
+
+### Description
+
+For this course students will describe relationships between changing quantities using the tools of differential and integral calculus. The ideas of continuity, limits, differentiation, and integration are explored at both a theoretical level and in applied contexts. Students will further develop problem-solving skills and improve mathematical communication.
+
+### Core Statement
+
+The University of Portland offers a liberal arts Core Curriculum with a vision of students acquiring knowledge, skills, and values that will prepare you to respond to the needs of the world and its human family, while having a foundation of multiple lenses to address enduring questions of human concern. The University Core Curriculum strives to achieve this vision by cultivating six habits of heart and mind in all graduates regardless of major.
+
+As a priority for this Core class, our focus is the “scientific and quantitative literacy and problem solving” habit. As part of developing that habit this course will prioritize students learning to employ mathematical and statistical skills to explore and make sense of data. Toward this end, as one specific Core learning outcome for this class, the expectation is that students who complete this course will be able to use the tools of differential calculus to solve complex problems and effectively communicate solutions in written form.
+
+### Learning Objectives
+
+By the end of the semester you will be able to:
+
+  * Analyze function defined graphically, numerically, or by formula.
+  * Describe, evaluate and represent the notions of limit, continuity, derivative, and antiderivative using multiple representations.
+  * Apply the derivative in optimization problems, linear approximation, and evaluation of indeterminate forms
+  * Describe the Fundamental Theorem of Calculus, particularly the connections between are accumulation functions and antiderivatives.
+  * Rely on a cultivated habit of reflective metacognition and self-assessment.
+  * Write logical progressions of precise mathematical statements that justify your reasoning and communicate content effectively.
+
+### Learning Targets
+
+|  **L**  |                                                             **Limits and Continuity**                                                            |
+|:--------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|  **L1** | I can describe the growth of common functions and explain the meaning of a limit beyond computations. (1.7, 1.8, 4.7)                            |
+| **L2*** | I can find one- and two-sided limits of a function at a point and at infinity using numerical, graphical, and algebraic methods. (1.7, 1.8, 1.9) |
+|  **L3** | I can determine points at which a function is (or is not) continuous, and can use continuity to determine limits. (1.7)                          |
+|  **L4** | I can identify limits in indeterminate form and can apply L'Hospital's rule correctly. (4.7)                                                     |
+
+|   **D** | **Derivatives**                                                                                                                                                         |
+|:--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **D1*** | I can correctly interpret the meaning of a derivative as an instantaneous rate of change and compare it to an average rate of change graphically and numerically. (2.1) |
+|  **D2** | I can find the derivative of a function (both at a point and as a function) using the limit definition of the derivative. (2.2, 2.3)                                    |
+|  **D3** | I can interpret the meaning of a derivative and its units in a variety of contexts. (2.4)                                                                               |
+|  **D4** | I can compute derivatives of polynomial and exponential functions. (3.1, 3.2)                                                                                           |
+| **D5*** | I can compute basic derivatives using the product, quotient, and chain rules. (3.3, 3.4)                                                                                |
+|  **D6** | I can compute derivatives of logarithmic, trigonometric, and inverse trig functions. (3.5, 3.6)                                                                         |
+|  **D7** | I can use techniques of implicit and logarithmic differentiation. (3.7)                                                                                                 |
+| **D8*** | I can compute derivatives using combinations of multiple rules. (3.1-3.6)                                                                                               |
+
+| **A**   | **Applications of Derivatives**                                                                                                                                                                                          |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **A1**  | I can find the equation of the tangent line to a function at a point. I can interpret the linear approximation graphically, in context of a situation, and use it to estimate function values and estimate aerror. (3.9) |
+| **A2*** | Given information about $f$, $f'$ or $f''$, I can correctly give information about $f$, $f'$ or $f''$ including function behavior, concavity, curve sketching, and contextual interpretation. (2.3, 2.5, 4.1)            |
+| **A3*** | I can use derivatives to solve optimization problems in context and with constant parameters. (4.2, 4.3, 4.4)                                                                                                            |
+| **A4**  | I can use derivatives to solve problems involving realted rates of change. (4.6)                                                                                                                                         |
+
+| **I**   | **Integrals**                                                                                                                                                                         |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **I1**  | I can calculate the are between curves, net change, and displacement using geometric methods and Riemann sums. (5.1, 5.2)                                                             |
+| **I2*** | I can explain the Fundamental Theorem of Calculus in terms of net change and displacements in graphical and applied contexts. (5.3, 6.1)                                              |
+| **I3*** | I can find antiderivatives of a function. I can evaluate definite and indefinite integrals using the Fundamental Theorem of Calculus and properties of definite integrals. (5.4, 6.2) |
+
+| **C**   | **Connections, Habits, & Higher-Order Skills**                                                                        |
+|---------|-----------------------------------------------------------------------------------------------------------------------|
+| **C1*** | I can effectively communicate understanding of course content using words, graphs, and equations.                     |
+| **C2**  | I can demonstrate perseverance in solving complex and unfamiliar problems.                                            |
+| **C3*** | I can evaluate the validity of statements and construct examples (or counterexamples) illustraing major concepts.     |
+| **C4**  | I can demonstrate a habit of consistent practice and build persistence in problem-solving by regularly completing HW. |
+| **C5**  | I can reflect on my own learning practices and make improvements.                                                     |
+
+*Learning targets with \* next to its label is considered a core learning target.*
+
+<br>
+
+## **Academic Support**
+
+### Help Hours
+
+> Dr. Alex John Quijano
+> 
+> * Walk-in MW at 9:45 AM - 11:10 AM, Buckley Center 279
+> * One-to-One, Buckley Center 279 or in Teams <br> [calendly.com/alexjohnquijano/helphours](https://calendly.com/alexjohnquijano/helphours){target="_blank"} <br> *Click on the link to sign-up for a 30-minute session.*
+
+My walk-in help hours start week 2. Note that you can bring a fellow student with you when you sign-up for a session. Just click the "Add Guests" link when you sign-up, and add in your fellow student's UP email. If you need more than 30 minutes, you can book at least two consecutive sessions.
+
+### The Learning Commons
+
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website at [up.edu/learningcommons](www.up.edu/learningcommons){target="_blank"}. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+
+### Math Resource Center
+
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the Math Resource Center website at  [up.edu/learningcommons/math-resource-center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 6:30 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+
+### Getting Help
+
+Don't hesitate to ask for assistance! I have help hours specifically in place because I want you to succeed, and the best place to connect with questions is one-on-one. If you can’t make it to my posted help hours, let me know and we can find another time. Other help options include:
+
+  * Post your question to the class Teams Question-Answering channel
+  * Get together with classmates to study together
+  * Drop by the Math Resource Center, which offers both drop-in and appointment-based tutoring.
+  * Use internet search. If you find a resource helpful, let me know.
+
+I understand that life happens, and illness, depression, family, relationships can disrupt our lives. When something arises, please reach out! I want to be able to support you in this course, and can only do so if you let me know.
+
+### Help Hours Guidelines
+
+It is strongly recommended that you attend the walk-in help hours or set up a one-to-one meeting with the me if you feel like you are falling behind during our in-person class activities, or if you just need to clarify concepts discussed in class. In order to be more productive during a one-to-one meeting (or the walk-in help hours), these are three recommendations before you come in:
+
+  * List all gaps in knowledge you have (missed concepts) or list all concepts that were unclear to you during class. We will address them one by one.
+  * Prepare questions you want answered and be ready to show relevant materials.
+  * Regarding assignments, prepare to show (a) what are the steps you have tried and (b) what are the errors you encountered and the strategies you have tried.
+
+Note that these are recommendations so that you can get the most out of the help hours allocated for you. If you just want to come in and chat about something else, feel free to do so. If the dedicated time for one-to-one meeting does not work for you, send me a message to set up an appointment.
+
+### Collaboration Policy
+
+I expect you to participate in the class through lectures, discussion, labs, and other engagements. I also expect you to make use of opportunities to get help outside of class (help hours, Teams, email, tutoring) if you need help. Concise and specific messages are the most helpful so I know how I can best help you.
+
+Students are encouraged to participate in discussions with their peers (or each other) regarding homework and other assignments. However, each student must take responsibility and ownership of their work and submit their work individually.
+
+<br>
+
+## **Assessment**
+
+### Assessment Disclosure Statement
+
+Student work products for this course may be used by the University for educational quality assurance purposes.
+
+### Proficiency-Based Grading
+
+This course is guided by the philosophy that learning mathematics requires focused effort, reflection, and revision. Assessment of this course is based on a proficiency system, in which students have multiple attempts to demonstrate proficiency, with opportunities to reflect on and improve previous understanding.
+
+### Grading
+
+Quizzes will be graded according to the standard rubric shown in the table below.
+
+| **Grade**                        | **Rubric Description**                                                                                                                                                                                                               |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Highly Proficient <br> (P+)**  | Work meets or exceeds expectations. Characterized by complete and successful work on all portions of the questions (base and optional), with thorough and correct reasoning. Mastery of the concepts is evident with trivial errors. |
+| **Proficient <br> (P)**          | Work meets expectations. Understanding is evident, even if some very minor mistakes present.                                                                                                                                         |
+| **Almost Proficient <br> (AP)**  | Work almost meets expectations but with some errors that needs immediate corrections.                                                                                                                                                |
+| **Not Yet Proficient <br> (NY)** | Work does not yet meet expectations. Partial understanding is evident, but substantive gaps remain and the work needs revision.                                                                                                      |
+| **Unable to assess <br> (U)**    | Work is incomplete, missing, or does not address the learning target in a meaningful way.                                                                                                                                            |
+
+Labs will be graded on completeness, validity of the mathematics, the clarity of the explanations, and the quality of the use of representations to illustrate the mathematics based on the rubric. The table below shows the rubric on how the labs will be graded.
+
+|                                                                                                                                            | **Unable to Assess <br> (U)**        | **Not Yet Proficient <br> (NY)**                                                     | **Proficient <br> (P)**                                                                                    | **Highly proficient <br> (P+)**                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **Completeness**                                                                                                                           | No or minimal work                 | Most problems attempted, some complete solutions                                     | Most problems completed with full solutions and all problems attempted     All problems clearly labeled.   | All problems completed with full solution. All problems clearly labeled.                           |
+| **Validity: Is the mathematics correct?**                                                                                                  | No or minimal correct mathematics    | Contains one or more conceptual errors or several minor errors.                      | May contain a few minor errors but no big conceptual errors. Good use of mathematical language and symbols | All parts of all problems mathematically valid: strong use of mathematical language and symbols    |
+| **Representations: (Numbers, Symbols, Diagrams, Graphs, Words)**                                                                           | No or minimal use of representations | Multiple representations present, but may not capture the mathematics clearly        | Multiple representations used appropriately                                                                | Multiple representations are used when appropriate with clear links connecting the representations |
+| **Explanations and alternate solution methods: Are the explanations clear and logical? Are multiple ways to solve the problem presented?** | No or minimal explanation            | Explanations present, but incomplete or confusing. Alternate strategies are minimal. | Strong explanations for most problems. Alternate solution strategies included when needed                  | Strong explanations for every problem. Multiple solution paths included for some problems          |
+
+### Final Grades
+
+| **Final Grade**                                      | **A** | **B** | **C** | **D** |
+|:-----------------------------------------------------|:-----:|:-----:|:-----:|:-----:|
+| **Proficiency (P,P+) in Core LTs**                   | 100%  | 100%  | 80%   | 65%   |
+| **Proficiency across all LTs (% of those assessed)** | 90%   | 80%   | 70%   | 60%   |
+| **% of P+ in LTs**                                   | 75%   | 35%   | 0%    | 0%    |
+| **WebWork and Participation**                        | 85%   | 70%   | 60%   | 50%   |
+| **Proficient Labs (P,P+)**                           | 100%  | 100%  | 75%   | 50%   |
+
+*The above table shows minimum requirements for each letter grade.*
+
+Note that these percentages are guidelines more than hard and fast rules. I will consider the entire body of your work when making these determinations, and this will also be informed by your own self-assessments. I will never impose standards higher than those outlined in the table but reserve the right to round down the needed minimum percentages (in a way that favors you).
+
+Decisions about +/- cutoffs will be based on (a) your performance on the final assessment and (b) your achievements as a whole.
+
+<br>
+
+## **Assignments**
+
+### Homework
+
+You will be required to complete an online homework via WeBWork. Homework is due Monday, Wednesday, or Friday due 48 hours after it was posted.
+
+> Here is how you can access WeBWork:
+>
+> * You are already on WeBWork.
+> * Just log in using your UP credentials at [webwork.up.edu/webwork2/MTH201Quijano-F23](https://webwork.up.edu/webwork2/MTH201Quijano-F23/){target="_blank"}.
+
+Homework is graded automatically. It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
+
+If you have questions or concerns regarding the contents and how to log-in to WeBWork, please send me a message though Teams or email.
+
+### Labs
+
+Labs are assigned semi-weekly will be due on Thursdays at end-of-day. Lab problems should be either typed or written and submitted as a pdf file in Teams Assignments. These labs are part of the Core Assessment, and will have common grading across all MTH 202 sections. Labs will be graded on three components:
+
+  * *Validity:* Is the method correct? Is the final solution correct?
+  * *Explanation:* Is the solution method well explained? Is the reasonableness of the solution justified?
+  * *Representation:* Is the solution process clearly written? Is the solution supported with appropriate graphs/diagrams/equations? Is mathematical notation used clearly and correctly?
+
+Labs can be hand-written or typed, but must be uploaded as a single pdf file. If you had handwritten your answers/solutions on a physical paper, make sure to label it properly and please scan your document using a scanner app for convenience. Suggestions: (1) "Tiny Scanner" for Android or (2) "Scanner App" for iOS.
+    
+### Lab Revisions
+    
+To submit lab revisions, students must complete the following for each problem you missed:
+        
+  * An explanation of the errors you made (A algebra? Graphs? Is there a specific concept?)
+  * Resolve the problem: be sure to include a clear explanation of your solution process so that another student in the class will understand
+  * Identify or create three difficult problems from this unit. (You can find/modify problems from in-class activities, WeBWork, the textbook, etc.) Solve each of the problems correctly, clearly describing your steps.
+  * Create a single PDF that includes (1) the previous lab, (2) the lab corrections, and (3) the additional practice problems.
+
+Revised labs can earn up to a score one point higher than the original score (thus a “Not yet proficient” lab can be revised into a “Proficient” lab.)
+
+Here are the qualifications for lab revisions:
+
+  * You must submit labs on time.
+
+Here are the rules on lab revisions:
+
+  * Lab revisions are accepted within one week of the lab being returned to you.
+  * Late revisions are not accepted unless the instructor allows.
+
+### Quizzes
+
+Weekly proficiency quizzes provide opportunities to demonstrate your understanding of the course learning targets. Each quiz will include 2-3 learning targets as well as the option to reassess past targets.
+
+Below are rules for the proficiency quizzes.
+
+  * Proficiency should be attained twice for each core \* learning target. 
+  * All Quizzes are written and submitted in-person. 
+  * Quizzes are conducted in class on Fridays and must be submitted at the end of class.
+  * Some quizzes can have specific notes open and some quizzes are closed notes.
+  * Electronic devices with or without access to the internet is not allowed.
+
+### Quiz Revisions
+
+Some proficiency quizzes can be revised without having to retake.
+
+Here are the qualifications and requirements for quiz revisions:
+
+  * A quiz grade of "AP".
+  * The original copy of the quiz.
+  * A written revisions of the quiz. Your revisions must be complete. That means you need to rewrite your whole work with the revisions.
+  
+Here are the rules on quiz revisions:
+
+  * Quiz revisions must be submitted within 24 hours of the quiz being returned to you.
+  * Late revisions are not accepted and will be automatically be regraded to "NY".
+  * Revisions can be made multiple times until I am satisfied with the results.
+  * If the revisions are deemed to be inadequate, then the quiz will be regraded to "NY".
+
+### Quiz Retakes
+
+Much of your work in this class can be revised. Everyone's path to understanding is different but we all benefit from reflecting on our mistakes. Since much of the mathematical content will build on previous ideas, however, reflecting in a timely way is important (hence a one-week deadline).
+
+In addition to the regular in-class quizzes, you may retake any of the Learning Targets that we’ve covered through any either of the following methods:
+  
+  * On quiz days there is additional time to retake additional Learning Target quizzes.
+  * You may schedule a retake on a particular Learning Target in my office.
+  * The final exam day will be used for additional Learning Target retakes.
+  
+Here are the qualifications and requirements for a quiz retake:
+
+  * A quiz grade of "NY" or "P".
+  * The original copy of the previous quiz.
+  * A written corrections of the previous quiz. Your corrections must be complete. That means you need to rewrite your whole work with the corrections.
+  
+Here are the rules on quiz retakes:
+  
+  * You can only retake at most three proficiency quizzes per week.
+  * Quiz retakes by appointment must be scheduled 24 hours in advance.
+  * For scheduled retakes, you must inform me if you need to retake a particular learning target.
+  * Quiz retakes must be completed within two weeks of the quiz being returned to you otherwise the quiz grade is set.
+  * A no-show on a scheduled quiz retake disqualifies you to do retakes for two weeks except for extenuating circumstances.
+  * All quiz retake qualifications and requirements must be available by the time of retake otherwise you will need to reschedule.
+  * Doing quiz corrections during a retake is not permitted.
+  * You can retake a proficiency quiz multiple times when available.
+  
+> Here is how you can schedule quiz retakes:
+>
+> * Calculus I Quiz Retakes <br> [calendly.com/alexjohnquijano/calculus1-quizretakes](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
+
+If you need more than 30 minutes to take the quiz, you can book at least two consecutive sessions.
+  
+### Make-up Quizzes
+
+You can make-up quizzes due to extenuating circumstances. Please let me know if you can't make it to a quiz day. If you missed a quiz day, please let me know as soon as possible to discuss the next steps.
+
+Here are the rules of make-up quizzes:
+
+  * A missed quiz day means that you will automatically receive a grade of "U" for that particular proficiency quiz.
+  * Make-up quizzes by appointment must be scheduled 24 hours in advance.
+  * Make-up quizzes can be done during quiz days.
+  * Make-up quizzes must be done within two weeks of the original quiz day.
+  
+> Here is how you can schedule makeup quizzes:
+>
+> * Calculus I Make-up Quiz <br> [calendly.com/alexjohnquijano/calculus1-quizretakes](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
+  
+If you need more than 30 minutes to take the quiz, you can book at least two consecutive sessions.
+  
+### Final Exam
+  
+The final exam includes (a) a written reflection of the big mathematical ideas of the course and (b) proficiency quiz retakes. This exam will be cumulative: it will focus on connections between ideas, conceptual understanding of the material, and applications rather than nitty-gritty computations. The final exam time will allow for proficiency quiz retakes of past learning objectives.
+
+> The final exam is on December 12, Tu 10:30 AM - 12:30 PM, Buckley Center 207.
+
+<br>
+
+## **Expectations**
+
+### Attendance and Participation
+
+You are expected to actively participate in this classroom community. Participation includes coming to class on time, being prepared, being willing to ask questions and share ideas, setting up study groups outside of class, attending tutoring sessions, posting helpful resources online, and contributing to the Teams discussion channels. Group and individual presentations of ideas is a suggested component of participation. We will cover new course material on Monday, Wednesday, and Thursday. Most Thursday class times will be for small group work on labs. Fridays will be mostly for proficiency assessment.
+
+### Late Assignments and Incompletes
+
+You are expected to turn in all completed assignments on time. Circumstances that may disallow you to turn in your work on time - such as a medical reason - are understandable. Please let the instructor know if you are unable to submit your work and have missed the deadline way beyond its original posted date. Because every assignment is an important aspect of your learning in this class, we will discuss when you will turn in the assignment as well as decide upon an acceptable consequence for your turning it in late. I am committed to successfully helping you learn from this course.
+
+### Classroom Norms
+
+  * Follow assignment submission guidelines.
+  
+  * Give your undivided attention to the class discussions. 
+  
+  * If you don’t agree with what someone else has to say, you are encouraged to express your point of view, but do so respectfully, and support your claims with textual evidence.
+  
+  * Everyone has the right to be heard. Maintain confidentiality if a person decides to share a personal experience.
+
+  * No name calling and respect each person's identity.
+
+  * One person speaks at a time. Give chances for other people to speak.
+  
+  * Maintain the highest standards of excellence for both you and others.
+
+  * Possess the humility to understand that you are not an expert in everything and that everyone has room for improvement.
+
+  * Realize that each person will start with a distinct set of skills.
+  
+  * Take care of yourself. If you need to step out of the classroom to have a moment to yourself - or go the bathroom - feel free to do so.
+
+### Inclusion and Diversity
+
+The natural and mathematical sciences are often viewed as objective disciplines. Science is a method for us to understand how the world works. However, it is historically built from a small set of privileged populations that often ignores the biases. I acknowledge that there may be some parts in this course that have overt and covert biases. Science is a human endeavor, and the pursuit of knowledge and skill must incorporate a diverse set of experiences. 
+
+I value all students regardless of their background, country of origin, race, religion, ethnicity, sexual orientation, disability status, etc. I am are committed to providing a climate of excellence and inclusiveness within all aspects of this course. If you have any concerns, issues, or challenges, you are encouraged to discuss with the instructor (set up a meeting by email or a direct message in Teams) with the assurance of full confidentiality except for academic integrity code violations or sexual harassment (which I am obligated by law to report).
+
+In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
+
+### Accessibility Statement
+
+The University of Portland strives to make its courses and services fully accessible to all students. Students are encouraged to discuss with their instructors what might be most helpful in enabling them to meet the learning goals of the course. Students who experience a disability are also encouraged to use the services of the Office for Accessible Education Services (AES), located in the Shepard Academic Resource Center (503-943-8985). If you have an AES Accommodation Plan, you should meet with your instructor to discuss how to implement your plan in this class. Requests for alternate location for exams and/or extended exam time should, where possible, be made two weeks in advance of an exam, and must be made at least one week in advance of an exam. Also, if applicable, you should meet with your instructor to discuss emergency medical information or how best to ensure your safe evacuation from the building in case of fire or other emergency. All information that students provide regarding disability or accommodation is confidential. All students are responsible for completing the required coursework and are held to the same evaluation standards specified in the course syllabus.
+
+### Referencing and Citation Guidelines
+
+In your written work for this course, you must cite all sources of information that you use, whether they are direct quotes, paraphrases, or summaries. The style of citation that you use should be consistent throughout your paper. The citation styles for this course are APA and CSE.
+
+  * APA style is used in the social sciences and psychology. It is characterized by parenthetical citations that include the author's last name and the year of publication. For example, "According to Smith (2023), the average height of a man in the United States is 5'10"."
+  * CSE style is used in the natural sciences and engineering. It is characterized by numbered citations that are listed at the end of the paper. For example, "[1] Smith, J. (2023). The average height of a man in the United States. Journal of Human Biology, 55(2), 123-132."
+
+If you are unsure which citation style to use, please consult with your instructor. You can also find more information about APA and CSE style in the Clark Library citation guidelines: [libguides.up.edu/cite](https://libguides.up.edu/cite){target="_blank"}
+
+Here are some additional tips for citing sources:
+
+  * Always cite the original source, even if you are quoting from a secondary source.
+  * Be sure to include all relevant information in your citations, such as the author's name, the year of publication, and the title of the source.
+  * List your references in alphabetical order at the end of your paper.
+
+Plagiarism is the act of using someone else's work without giving them credit. It is a serious academic offense that can result in a failing grade or even expulsion from school. By following these guidelines, you can help to avoid plagiarism and ensure that your work is properly cited.
+
+### Code of Academic Integrity
+
+The University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity. 
+
+Especially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline.
+
+The use of artificial intelligence (AI) tools such as ChatGPT without attribution also constitutes plagiarism. Students must cite any AI-generated text and ideas and disclose any activities (e.g. brainstorming, editing, translating, etc.) for which AI was employed. Students are expected to demonstrate sound judgment in discerning when and how to utilize AI ethically across their academic work, upholding standards of citation, originality, and integrity. The misuse of AI to shortcut academic requirements will be considered a breach of academic integrity. Students who have questions about when and how to use AI should talk with their instructor.
+
+### Mental Health Statement
+
+Anyone may sometimes experience problems with their mental health that interfere with academic experiences and negatively impact daily life. If you or someone you know experiences mental health challenges at UP, please contact the University of Portland Wellness Center in the lower level of Orrico Hall (down the hill from Franz Hall and near Mehling Hall) at 503-943-7134 or wellness@up.edu. Their services are free and confidential. In addition, confidential phone counseling is available at the Pilot Helpline by calling 503-943-7134 and pressing 3. The University of Portland Campus Safety Department (503-943-4444) also has personnel trained to respond sensitively to mental health emergencies at all hours. Remember that getting help is a smart and courageous thing to do - for yourself, for those you care about, and for those who care about you.
+
+### Physical Health Statement
+
+Generally, students are expected to attend all class sessions according to the instructor’s direction. Students who feel unwell should NOT attend class in person. These students should inform their instructor as soon as possible. 
+
+Should the instructor need to miss class, the course may be temporarily conducted remotely. Should the instructor be unable to teach for an extended period of time, the respective department or unit will find a substitute to continue the course.
+
+Students who must be in isolation due to COVID-19 symptoms or a positive test should also contact their instructor as soon as possible to work out details for keeping up with the course material while in isolation.
+
+Following current guidance from our county and state health authorities, face coverings are highly recommended in the classroom and all indoor spaces. As we move through the semester, however, classroom rules and procedures may change. All students and instructors must follow any University-wide COVID-19 rules and procedures that might be in put place at any given time during the semester for classrooms, labs, and all common areas of academic buildings. Such rules and procedures may include required face coverings, suggested distancing protocols and directions, and limitations on eating and drinking in the classroom, among other things. Failure to follow any of the COVID-19 classroom rules in place at the time could result in a student’s removal from the course and/or a report filed with the Office of Student Conduct.
+
+### Non-Violence Statement
+
+The University of Portland is committed to fostering a safe and respectful community free from all forms of violence. Violence of any kind, and in particular acts of power-based personal violence, are inconsistent with our mission. Together, all UP community members must take a stand against violence. Learn more about what interpersonal violence looks like, campus and community resources, UP’s prevention strategy, and what we as individuals can do to assist on the Green Dot website, [www.up.edu/greendot](www.up.edu/greendot){target="_blank"}. Further information and reporting options may be found on the Title IX website, [www.up.edu/titleix](www.up.edu/titleix){target="_blank"}.
+
+### Ethics of Information
+
+The University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information at [libguides.up.edu/ethicaluse](libguides.up.edu/ethicaluse){target="_blank"}.
+
+<br>

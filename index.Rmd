@@ -1,0 +1,106 @@
+---
+title: '**Welcome to Calculus I!**'
+author: |
+  | MTH-201 Section E
+  | University of Portland
+  | Alex John Quijano
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+## **Quick Content Guide**
+
+| Page                      | Contents                                                                          |
+|---------------------------|-----------------------------------------------------------------------------------|
+| [Home](index.html)        | Quick course and instructor information                                           |
+| [Syllabus](syllabus.html) | About the class, class materials and resources, class assessment and expectations |
+| [Topics](topics.html)     | Tentative topics, notes, assignments, and books and online resources list         |
+
+<br>
+
+## **Quick Course Information**
+
+### Course Information
+
+> * Title: MTH 201: Calculus I
+> * Section: E
+
+### Instructor Information
+
+> * Instructor: Alex John Quijano
+> * Office: Buckley Center 279
+> * Email: quijano@up.edu
+
+If you want to learn more about me, please visit [alexjohnquijano.com](https://alexjohnquijano.com/){target="_blank"}.
+
+### Lectures and Discussions
+
+> The course schedule and location is:
+>
+> * MWF 12:30 PM - 1:25 PM, Buckley Center 207
+> * Th 12:55 PM - 1:50 PM, Franz Hall 222
+
+<br>
+
+## **Quick Academic Support**
+
+### Walk-In Help Hours
+
+> Dr. Alex John Quijano
+> 
+> * Walk-in MW at 9:45 AM - 11:10 AM, Buckley Center 279
+
+### Appointment-Based Sessions
+
+> Dr. Alex John Quijano
+>
+> <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;height:450px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+### The Learning Commons
+
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website at [up.edu/learningcommons](www.up.edu/learningcommons){target="_blank"}. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+
+### Math Resource Center
+
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the Math Resource Center website at  [up.edu/learningcommons/math-resource-center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 6:30 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+
+<br>
+
+## **Quick Resources**
+
+### Microsoft Teams
+
+> The Teams for this course is [mth-201e-sp23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
+
+### Homework
+
+> * Log in using your UP credentials at [webwork.up.edu/webwork2/MTH201Quijano-F23](https://webwork.up.edu/webwork2/MTH201Quijano-F23/){target="_blank"}.
+
+### Graphing Calculator
+
+> * Use your UP email to sign-up for a free Desmos account and join our Desmos class [MTH-201E: Calculus I Fall 2023 [Quijano]](https://student.desmos.com/?prepopulateCode=jfme6s){target="_blank"}
+> * If you need the Desmos class code, use **JFME6S**.
+
+### Email
+
+My UP email is **quijano@up.edu**. 
+
+> If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 201” keyword in your subject line.
+
+### Textbook
+
+Calculus: Single Variable (7th ed), by Hughes-Hallett, Gleason, McCallum, et al (Wiley, 2009).
+
+> It is not necessary to purchase the textbook.
