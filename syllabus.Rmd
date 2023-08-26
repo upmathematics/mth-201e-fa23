@@ -4,6 +4,8 @@ author: |
   | MTH-201 Section E
   | University of Portland
   | Alex John Quijano
+bibliography: references.bib
+csl: apa.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +28,7 @@ create_footer()
 
 ### Instructor Information
 
-> * Instructor: Alex John Quijano
+> * Instructor: Dr. Alex John Quijano
 > * Office: Buckley Center 279
 > * Email: quijano@up.edu
 
@@ -53,7 +55,7 @@ The syllabus, tentative topics schedule, assignments, and all other class materi
 
 We will be using Teams as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance. 
 
-> The Teams for this course is [mth-201e-sp23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
+> The Teams for this course is [mth-201e-fa23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
 
 ### Graphing Calculator
 
@@ -74,7 +76,11 @@ It is easy for me to get notice of your email if you put the keyword in the subj
 
 ### Textbook
 
-Calculus: Single Variable (7th ed), by Hughes-Hallett, Gleason, McCallum, et al (Wiley, 2009).
+```{r echo=FALSE}
+refs <- bibtex::read.bib("references.bib")
+```
+
+`r capture.output(print(refs["hughshallet2017"]))`
 
 > It is not necessary to purchase the textbook.
 
