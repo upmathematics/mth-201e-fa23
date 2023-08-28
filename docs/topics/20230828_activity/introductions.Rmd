@@ -1,0 +1,64 @@
+---
+title: "Function Placemats"
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 201E Calculus I}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+bibliography: ../../../references.bib
+csl: ../../../apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Name(s)
+
+Write you group names here.
+
+\
+
+## Purpose and Instructions
+
+This activity is intended to review properties of functions, including:
+
+* whether a relation gives a function; 
+* whether a function is even, odd, or neither; 
+* values of functions at particular points in the domain; 
+* domain and range; 
+* multiple representations of functions; 
+* whether a function is one-to-one.
+
+You will find a set of placemats and words that describe what is
+given in each space on the placemat. Work together in your group to place each
+card in an applicable position on the placemats. Each card will be used once
+and only once. There are some cards that will appear more than once. This
+means, for example, that there are multiple function where $f(1) = 2$."
+
+\
+
+## Leading Questions and General Ideas
+
+1. What was your strategy for placing the cards on the placemats?
+
+\
+
+2. Which cards were easiest for you to place and why?
+
+\
+
+3. Which cards where hardest for you to place, and why?
+
+\
+
+4. What questions do you have after completing this activity?
+
+\

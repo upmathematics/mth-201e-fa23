@@ -42,8 +42,8 @@ create_footer()
 | - | F 9/8 | **Proficiency Quiz<br>L1, L2** | - | Due: Section 2.1 | **Due: Lab 0** | - |
 | **3** | M 9/11 | 2.3 Derivative Function Preview | TBA | Due: Section 2.2 | - | Pgs. 99-104 [CSV] |
 | - | W 9/13 | 2.3 Derivative Function | TBA | - | - | - |
-| - | Th 9/14 | 2.4 Interpreting the Derivative | TBA | - | - | Pgs. 108-110 [CSV] |
-| - | F 9/15 | **Proficiency Quiz<br>L2, L3, D1<br>Retakes: L1** | - | Due: Section 2.3 | **Due: Lab 1** | - |
+| - | Th 9/14 | 2.4 Interpreting the Derivative | TBA | - |  | Pgs. 108-110 [CSV] |
+| - | F 9/15 | **Proficiency Quiz<br>L2, L3, D1<br>Retakes: L1** | - | Due: Section 2.3 | **Due Lab 1** | - |
 | **4** | M 9/18 | 2.5 Second Derivative | TBA | Due: Section 2.4 | - | Pgs. 115-119 [CSV] |
 | - | W 9/20 | 2.6 Differentiability | TBA | Due: Section 2.5 | - | Pgs. 123-126 [CSV] |
 | - | Th 9/21 | Lab 2: Corona Virus Cases | - | - | Assigned: Lab 2 | - |
@@ -66,16 +66,16 @@ create_footer()
 | - | F 10/20 | _Fall Break_ | - | - | - | - |
 | **9** | M 10/23 | 3.7 Implicit Differentiation | TBA | Due: Derivative Practice | - | Pgs. 171-173 [CSV] |
 | - | W 10/25 | 3.9 Linear Approximation | TBA | Due: Section 3.7 | - | Pgs. 178-182 [CSV] |
-| - | Th 10/26 | 4.1 Using Derivative | TBA | - | **Due: Lab 3** | Pgs. 192-198 [CSV] |
-| - | F 10/27 | **Proficiency Quiz<br>D7, D8<br>Retakes: D4, D5, D6** | - | Due: Section 3.9<br>Due: Section 3.10 | - | - |
+| - | Th 10/26 | 4.1 Using Derivative | TBA | - | - | Pgs. 192-198 [CSV] |
+| - | F 10/27 | **Proficiency Quiz<br>D7, D8<br>Retakes: D4, D5, D6** | - | Due: Section 3.9<br>Due: Section 3.10 | **Due: Lab 3** | - |
 | **10** | M 10/30 | 4.2 Optimization | TBA | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
 | - | W 11/1 | 4.3 Optimization Cont. | TBA | - | - | Pgs. 212-218 [CSV] |
 | - | Th 11/2 | Lab 4: Global Warming | - | - | Assigned: Lab 4 | - |
 | - | F 11/3 | **Proficiency Quiz<br>A1, D8<br>Retakes: D5, D6, D7** | - | Due: Section 4.2 | - | - |
 | **11** | M 11/6 | 4.3 Optimization | TBA | Due: Section 6.3 | - | - |
 | - | W 11/8 | 4.4 Families of Functions | TBA | Due: Section 4.3 | - | Pgs. 224-229 [CSV] |
-| - | Th 11/9 | 4.6 Related Rates | TBA | - | **Due: Lab 4** | Pgs. 243-246 [CSV] |
-| - | F 11/10 | **Proficiency Quiz<br>A2, A3<br>Retakes: D5, D7, D8, A1** | - | Due: Section 4.4 | - | - |
+| - | Th 11/9 | 4.6 Related Rates | TBA | - | - | Pgs. 243-246 [CSV] |
+| - | F 11/10 | **Proficiency Quiz<br>A2, A3<br>Retakes: D5, D7, D8, A1** | - | Due: Section 4.4 | **Due: Lab 4** | - |
 | **12** | M 11/13 | 4.6 Related Rates Cont. | TBA | - | - | - |
 | - | W 11/15 | 4.7 L'Hopital | TBA | Due: Section 4.6 | - | Pgs. 252-256 [CSV] |
 | - | Th 11/16 | 5.1 Distance Traveled | TBA | - | - | Pgs. 272-278 [CSV] |
@@ -86,8 +86,8 @@ create_footer()
 | - | F 11/24 | _Thanksgiving Vacation_ | - | - | - | - |
 | **14** | M 11/27 | 5.3 Fundamental Theorem of Calculus Part 1 | TBA | - | - | Pgs. 292-297 [CSV] |
 | - | W 11/29 | 5.4 Theorems About Integrals | TBA | Due: Section 5.3 | - | Pgs. 302-309 [CSV] |
-| - | Th 11/30 | 6.1 Antiderivatives (Numerically & Graphically) | TBA | - | **Due: Lab 5** | Pgs. 316-317 [CSV] |
-| - | F 12/1 | **Proficiency Quiz<br>I1, I2<br>Retakes: L4, A2, A3, A4** | - | Due: Section 5.4 | - | - |
+| - | Th 11/30 | 6.1 Antiderivatives (Numerically & Graphically) | TBA | - | - | Pgs. 316-317 [CSV] |
+| - | F 12/1 | **Proficiency Quiz<br>I1, I2<br>Retakes: L4, A2, A3, A4** | - | Due: Section 5.4 | **Due: Lab 5** | - |
 | **15** | M 12/4 | 6.2 Antiderivatives (Analytically) | TBA | Due: Section 6.1<br>Due: Section 6.2 | - | Pgs. 322-326 [CSV] |
 | - | W 12/6 | 6.4 Fundamental Theorem of Calculus Part 2 | TBA | - | - | Pgs. 335-338 [CSV] |
 | - | Th 12/7 | Review | - | - | - | - |
