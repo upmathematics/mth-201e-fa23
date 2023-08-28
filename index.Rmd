@@ -2,6 +2,7 @@
 title: '**Welcome to Calculus I!**'
 author: |
   | MTH-201 Section E
+  | Fall 2023
   | University of Portland
   | Alex John Quijano
 bibliography: references.bib
@@ -64,7 +65,7 @@ create_footer()
 > Dr. Alex John Quijano
 >
 > <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:450px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:650px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
@@ -82,7 +83,7 @@ Appointment-based tutoring accepts appointments starting week 1 and sessions sta
 
 ### Microsoft Teams
 
-> The Teams for this course is [mth-201e-fa23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
+> The Teams for this course is [MTH-201E-fa23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
 
 ### Homework
 
@@ -95,7 +96,7 @@ Appointment-based tutoring accepts appointments starting week 1 and sessions sta
 
 ### Email
 
-My UP email is **quijano@up.edu**. 
+My UP email is quijano@up.edu. 
 
 > If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 201” keyword in your subject line.
 

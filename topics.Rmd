@@ -2,6 +2,7 @@
 title: "Tentative Topics Schedule"
 author: |
   | MTH-201 Section E
+  | Fall 2023
   | University of Portland
   | Alex John Quijano
 bibliography: references.bib
@@ -29,7 +30,7 @@ create_footer()
 
 ## **Topics and Materials**
 
-| **Week** | **Day** | **Topic** | **Desmos** | **WeBWork** | **Lab** | **Reading** |
+| **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Lab** | **Reading** |
 |---|---|---|---|---|---|---|
 | **1** | M 8/28 | Introduction & Orientation | - | - | Assigned: Lab 0 | Syllabus |
 | - | W 8/30 | 1.7 Limits and Continuity | TBA | Due: Precalculus Diagnostic Quiz | - | Pgs. 58-63 [CSV] |
@@ -91,7 +92,7 @@ create_footer()
 | - | W 12/6 | 6.4 Fundamental Theorem of Calculus Part 2 | TBA | - | - | Pgs. 335-338 [CSV] |
 | - | Th 12/7 | Review | - | - | - | - |
 | - | F 12/8 | **Proficiency Quiz<br>I2, I3<br>Retakes: L4, A2, A3, A4** | - | Due: Section 6.4 | - | - |
-| **-** | Tu 12/12 | Final Exam<br>Tu 10:30 AM - 12:30 PM | - | - | - | - |
+| **16** | Tu 12/12 | **Final Exam<br>Tu 10:30 AM - 12:30 PM** | - | - | - | - |
 
 <br>
 

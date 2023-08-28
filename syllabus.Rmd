@@ -2,6 +2,7 @@
 title: '**Calculus I Syllabus**'
 author: |
   | MTH-201 Section E
+  | Fall 2023
   | University of Portland
   | Alex John Quijano
 bibliography: references.bib
@@ -40,6 +41,8 @@ MTH 112 or a passing score on the math placement test.
 
 In-person lectures and discussions will occur synchronously during their scheduled time on Monday, Wednesday, and Thursday. Fridays are for learning target assessments or proficiency quizzes. Our lectures will typically consist of traditional lectures in the first 20 to 30 minutes of class, then followed by a mini-activities in a form of group work, discussions, or worksheets.
 
+We will cover new course material on Monday, Wednesday, and Thursday. Most Thursday class times will be for small group work on labs. Fridays will be mostly for proficiency assessment.
+
 > The course schedule and location is:
 >
 > * MWF 12:30 PM - 1:25 PM, Buckley Center 207
@@ -55,11 +58,11 @@ The syllabus, tentative topics schedule, assignments, and all other class materi
 
 We will be using Teams as the main real-time communication tool for general announcements, assignment submissions, question-answering discussions, and direct messages. I added you to the Teams page already, so you just need to log in using your UP credentials. If not, then send a request when you log in. Let me know if you need any assistance. 
 
-> The Teams for this course is [mth-201e-fa23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
+> The Teams for this course is [MTH-201E-fa23](https://teams.microsoft.com/l/team/19%3alkqkXlU1wUpfYFDLkmvNo5_UTVF6WdUH0XlhsM-hMKM1%40thread.tacv2/conversations?groupId=0478f5dc-fee7-44d1-b54c-e8d3664c9b3b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. If you need the Teams code, use **601z214**.
 
 ### Graphing Calculator
 
-We will be using Desmos as our online graphing calculator for our in-class activities, and sometimes for outside of class activities.
+We will be using Desmos as our online graphing calculator for our in-class activities and out-class activities.
 
 > Here is how you can access Desmos:
 >
@@ -68,7 +71,7 @@ We will be using Desmos as our online graphing calculator for our in-class activ
 
 ### Email
 
-My UP email is **quijano@up.edu**. 
+My UP email is quijano@up.edu. 
 
 > If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 201” keyword in your subject line. 
 
@@ -327,7 +330,7 @@ Here are the rules on quiz revisions:
 
 ### Quiz Retakes
 
-Much of your work in this class can be revised. Everyone's path to understanding is different but we all benefit from reflecting on our mistakes. Since much of the mathematical content will build on previous ideas, however, reflecting in a timely way is important (hence a one-week deadline).
+Much of your work in this class can be revised. Everyone's path to understanding is different but we all benefit from reflecting on our mistakes. Since much of the mathematical content will build on previous ideas, however, reflecting in a timely way is important (hence a two-week deadline).
 
 In addition to the regular in-class quizzes, you may retake any of the Learning Targets that we’ve covered through any either of the following methods:
   
@@ -371,13 +374,13 @@ Here are the rules of make-up quizzes:
   
 > Here is how you can schedule makeup quizzes:
 >
-> * [Calculus I Make-up Quiz](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
+> * [Calculus I Make-Up Quiz](https://calendly.com/alexjohnquijano/calculus1-quiz-retakes-or-makeup){target="_Blank"} <br> *Click on the link to sign-up for a 30-minute session.*
   
 If you need more than 30 minutes to take the quiz, you can book at least two consecutive sessions.
   
 ### Final Exam
   
-The final exam includes (a) a written reflection of the big mathematical ideas of the course and (b) proficiency quiz retakes. This exam will be cumulative: it will focus on connections between ideas, conceptual understanding of the material, and applications rather than nitty-gritty computations. The final exam time will allow for proficiency quiz retakes of past learning objectives.
+The final exam includes (a) a written reflection of the big mathematical ideas of the course and (b) proficiency quiz retakes. This exam will be cumulative: it will focus on connections between ideas, conceptual understanding of the material, and applications rather than nitty-gritty computations. The final exam time will allow for proficiency quiz retakes of past learning objectives. Makeup quizzes are not allowed during final exam time.
 
 > The final exam is on December 12, Tu 10:30 AM - 12:30 PM, Buckley Center 207.
 
@@ -385,9 +388,23 @@ The final exam includes (a) a written reflection of the big mathematical ideas o
 
 ## **Expectations**
 
+### Cancelation Policies
+
+#### Help Hours
+
+You can cancel your scheduled help hours before the event, but it is strongly recommended that you cancel 12 hours before your scheduled time so that other students can schedule when a spot opens. You can reschedule for a different day and time if you need to.
+
+Please try to show-up to your scheduled help hours. If for any reason that you can't make-it, please let me know as soon as possible.
+
+### Retakes and Make-ups
+
+You can cancel your scheduled retake or make-up before the event, but it is strongly recommended that you cancel 24 hours before your scheduled time so that other students can schedule when a spot opens. You can reschedule for a different day and time if you need to.
+
+Please try to show-up to your scheduled make-up. If you have extenuating circumstances, please let me know as soon as possible to discuss next steps.
+
 ### Attendance and Participation
 
-You are expected to actively participate in this classroom community. Participation includes coming to class on time, being prepared, being willing to ask questions and share ideas, setting up study groups outside of class, attending tutoring sessions, posting helpful resources online, and contributing to the Teams discussion channels. Group and individual presentations of ideas is a suggested component of participation. We will cover new course material on Monday, Wednesday, and Thursday. Most Thursday class times will be for small group work on labs. Fridays will be mostly for proficiency assessment.
+You are expected to actively participate in this classroom community. Participation includes coming to class on time, being prepared, being willing to ask questions and share ideas, setting up study groups outside of class, attending tutoring sessions, posting helpful resources online, and contributing to the Teams discussion channels. Group and individual presentations of ideas is a suggested component of participation.
 
 ### Late Assignments and Incompletes
 
