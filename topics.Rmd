@@ -32,8 +32,8 @@ create_footer()
 
 | **Week** | **Day** | **Topic** | **Activity** | **Homework** | **Lab** | **Reading** |
 |---|---|---|---|---|---|---|
-| **1** | M 8/28 | Introduction & Orientation | - | - | Assigned: Lab 0 | Syllabus |
-| - | W 8/30 | 1.7 Limits and Continuity | TBA | Due: Precalculus Diagnostic Quiz | - | Pgs. 58-63 [CSV] |
+| **1** | M 8/28 | Introduction & Orientation | Function Placemats | - | Assigned: Lab 0 | Syllabus |
+| - | W 8/30 | 1.7 Limits and Continuity | What's up with these functions?<br>[[Handout]](topics/1.7-limits-and-continuity/1.7_Limits_F23.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64ef88678586d2895a2aa247){target="_blank"} | Due: Precalculus Diagnostic Quiz | - | Pgs. 58-63 [CSV] |
 | - | Th 8/31 | 1.8 Extending the Idea of a Limit | TBA | - | - | Pgs. 67-72 [CSV] |
 | - | F 9/1 | 1.9 Limits and Algebra | TBA | Due: Section 1.7 | - | Pgs. 75-80 [CSV] |
 | **2** | M 9/4 | 2.1 Measuring Speed | TBA | Due: Section 1.8 | - | Pgs. 84-88 [CSV] |

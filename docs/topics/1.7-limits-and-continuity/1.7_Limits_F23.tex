@@ -1,0 +1,195 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+%No warm-up on quiz days. If wanted, today's warm-up would be solving equations.
+ Name:
+ \begin{center}\large{1.7 What's up with these functions?}\end{center}
+\begin{enumerate}
+
+\item All of these functions do something weird at $x=0$. Investigate the functions using your intuition, plugging in values, or using graphs. In particular, be prepared to share with the class:
+	\begin{itemize}
+	\item What is $f(0)$? Does it even exist?
+	\item What happens to the function near $x=0$? Plug in nearby points or use a graph to support your reasoning.
+	\end{itemize}
+	
+	\begin{enumerate}
+	\item $\displaystyle f(x)=\frac{|x|}{x}$
+	\vfill
+	\item $\displaystyle g(x)=\frac{4x^2-5x}{x}$
+	\vfill
+	\item $\displaystyle h(x)=\frac{x^2+5}{x^2}$
+	\vfill
+	\item $\displaystyle k(x) = \begin{cases} 
+      e^x& \text{if }x < 0 \\
+      1-x & \text{if }x \geq 0 \\
+   \end{cases}$
+	\vfill
+	\item $\displaystyle l(x)=\sin\left(\frac{1}{x}\right)$
+	\vfill
+	\end{enumerate}
+\newpage
+~
+\begin{tcolorbox} 
+\textbf{Definitions:}
+
+\begin{itemize} 
+\item A function $f$ is continuous at $c$ if $\displaystyle \lim_{x \to c} f(x) = f(c)$, which means ...
+
+\vspace{30mm}
+
+\item The limit $L$ of a function $f$ at $c$ exists if $\displaystyle \lim_{x \to c^+} f(x) =  \lim_{x \to c^-} f(x)$, which means...
+ \vspace{25mm}
+
+\end{itemize}
+\end{tcolorbox}
+
+\item The piecewise function $f(x)$ is graphed below.
+	\begin{enumerate}
+	\item For what value(s) of $x$ is this function not continuous?
+	\item For what value(s) of $x$ does the limit not exist?
+	\end{enumerate}
+\vspace{5mm}
+ \begin{tabular}{cl}  
+         \begin{tabular}{c}
+           \includegraphics[scale=.4]{1_8_Limitgraph2}
+           \end{tabular}
+           & \begin{tabular}{l}
+             \parbox{0.5\linewidth}{%  change the parbox width as appropiate
+           (c) Find the following:
+	\begin{enumerate}
+	\item $\displaystyle \lim_{x\to -3^+}f(x) = $
+	\item $\displaystyle \lim_{x\to -3^-}f(x) = $
+	\item $\displaystyle \lim_{x\to -3}f(x) = $
+	\item $\displaystyle f(-3) = $
+	\item $\displaystyle \lim_{x\to 2^+}f(x) = $
+	\item $\displaystyle \lim_{x\to 2^-}f(x) = $
+	\item $\displaystyle \lim_{x\to 2}f(x) = $
+	\item $\displaystyle f(2) = $
+	\end{enumerate}    }
+         \end{tabular}  \\
+\end{tabular}
+
+\end{enumerate}
+
+\begin{tcolorbox} 
+\textbf{Intermediate Value Theorem:} Suppose $f$ is continuous on a closed interval $[a,b]$.\\ If $k$ is any number between $f(a)$ and $f(b)$, then there exists at least one number\\ $c$ in $[a,b]$ such that $f(c)=k$.
+\end{tcolorbox}
+
+
+\end{document}
+
+\begin{enumerate}
+\item For what value(s) of $x$ is this function not continuous?\\
+For what value(s) of $x$ does the limit not exist?\\
+\vspace{5mm}
+ \begin{tabular}{cl}  
+         \begin{tabular}{c}
+           \includegraphics[scale=.4]{1_8_Limitgraph2}
+           \end{tabular}
+           & \begin{tabular}{l}
+             \parbox{0.5\linewidth}{%  change the parbox width as appropiate
+            Find the following:
+	\begin{enumerate}
+	\item $\displaystyle \lim_{x\to -3^+}f(x) = $
+	\item $\displaystyle \lim_{x\to -3^-}f(x) = $
+	\item $\displaystyle \lim_{x\to -3}f(x) = $
+	\item $\displaystyle f(-3) = $
+	\end{enumerate}    }
+         \end{tabular}  \\
+\end{tabular}
+
+\item Find the value of $k$ that would make the function continuous.
+
+	\[ g(x) = \begin{cases} 
+      \frac{e^x-1}{x}& x\neq 0 \\
+      k & x = 0 \\
+   \end{cases} \]
+\vfill
+\item Find each limit. Include a table of values to illustrate your answer. \\
+
+	\begin{multicols}{2}
+	\begin{enumerate}[itemsep=3cm]
+	\item $\displaystyle \lim_{x\to 0} \left(1+x\right)^{\frac{1}{x}}=$
+	\item $\displaystyle \lim_{\theta \to 0} \frac{\sin(2\theta)}{\theta}=$
+	\item $\displaystyle \lim_{y \to \infty} \frac{\sqrt{y^2+2}}{5y-6}=$
+	\item $\displaystyle \lim_{t \to 1^+} \frac{|1-t|}{1-t}=$
+\end{enumerate}
+\end{multicols}
+
+
+\item Find a value of $m$ that would make the limit exist. Find the limit.
+$$ \lim_{x\to\infty}\frac{2x^3-6}{x^m+3}$$
+
+\vfill
+\item In each case sketch a graph with the given characteristics:
+	\begin{enumerate}
+	\item $f(4)$ is undefined and $\displaystyle \lim_{x\to4} f(x)=2$
+	\vfill
+	\item $f(3)=2$ and $\displaystyle \lim_{x\to3} f(x)$ does not exist
+	\vfill
+	\item $f(4) = 2$,  $\displaystyle \lim_{x\to4^-} f(x)=0$, and $\displaystyle \lim_{x\to4^+} f(x)=-\infty$
+	\vfill
+	\end{enumerate}
+
+\end{enumerate}
+
+
+\end{document} 
+
+%%%%%%%%%
+\begin{tcolorbox}
+\textbf{Warm-up: } Solve the following equations for $t$.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(t+1)^2=9$
+\item $tx+x^2=5$
+\end{enumerate}
+\end{multicols}
+\end{tcolorbox}
+
+MINIPAGE
+\noindent\begin{minipage}{0.3\textwidth}% adapt widths of minipages to your needs
+try 1
+\end{minipage}%
+\hspace{40mm}
+\begin{minipage}{0.6\textwidth}
+a) $f'(2)=$\\\
+
+b) $f'(4)=$\\
+
+c) $f'(6)=$\\
+
+d) $f'(7)=$\\
+
+e) $f'(8)=$
+\end{minipage}

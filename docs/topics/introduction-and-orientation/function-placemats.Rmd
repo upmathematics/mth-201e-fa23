@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Name(s)
 
-Write you group names here.
+Write your group names here.
 
 \
 
