@@ -1,0 +1,172 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+%No warm-up on quiz days. If wanted, today's warm-up would be solving equations.
+ Name:
+ \begin{center}\large{1.8 Limits and Continuity}\end{center}
+
+\begin{enumerate}
+
+
+\item  \textbf{Holes, Asymptotes, and Indeterminate forms:} Compare the following functions. For each, Find the limit as $x$ approaches 2, and determine whether the function is continuous at $x=2$.
+	\begin{multicols}{2}
+	\begin{enumerate}[itemsep=1cm]
+	\item $\displaystyle f(x)=3x+5$
+	\item $\displaystyle g(x)=\frac{(3x+5)(x-2)}{x-2}$
+	\item $\displaystyle h(x)=\frac{3x+5}{x-2}$
+	\item $\displaystyle g(x)=\frac{(3x+5)(x-2)}{(x-2)^2}$
+	\end{enumerate}
+	\end{multicols}
+\vfill
+\begin{tcolorbox}
+\textbf{Summary:}\\
+If a function is of the form $\displaystyle f(a)=\frac{K}{0}$ where $K$ is a constant, then $\displaystyle \lim_{x\to a} f(x) $....\\
+\vspace{10mm}\\
+If a function is of the form $\displaystyle f(a)=\frac{0}{0}$, then $\displaystyle \lim_{x\to a} f(x) $....\\
+\vspace{10mm}
+\end{tcolorbox}
+
+
+\item \textbf{Limits at Infinity:} 
+Use graphs to find the limits at infinity for the following functions:
+	\begin{multicols}{2}
+	\begin{enumerate}[itemsep=1cm]
+	\item $\displaystyle \lim_{x\to -\infty} e^{-x}$
+	\item $\displaystyle \lim_{x\to \infty}\frac{1}{x^2}+2$
+	\item $\displaystyle \lim_{x\to \infty}\frac{4x^2-8}{-7x^2}$
+	\item $\displaystyle \lim_{x\to -\infty}\frac{3x^3-27}{x-3}$
+	\item $\displaystyle \lim_{x\to -\infty}\frac{3\sqrt{x}-2}{x^5+4}$
+	\item $\displaystyle \lim_{x\to \infty}\sin(x)$
+	
+	\end{enumerate}
+	\end{multicols}
+\newpage
+
+\hspace{20px}
+\begin{tcolorbox}
+\textbf{Summary:}
+For rational function of the form $r(x)=\frac{p(x)}{q(x)}$ with $p(x)$ degree $n$ and $q(x)$ degree $m$, we have:\\
+\begin{itemize}
+\item If $n<m$...\\
+
+\item  If $n>m$...\\
+\item  If $n=m$...\\
+\vspace{15mm}
+\end{itemize}
+\end{tcolorbox}
+
+\item Find the value of $k$ that would make the function continuous.
+
+	\[ g(x) = \begin{cases} 
+      \frac{e^x-1}{x}& x\neq 0 \\
+      k & x = 0 \\
+   \end{cases} \]
+\vfill
+
+\item Find a value of $m$ that would make the limit exist. Find the limit.
+$$ \lim_{x\to\infty}\frac{2x^3-6}{x^m+3}$$
+
+\vfill
+\item For each description, sketch a graph with the given characteristics:
+	\begin{enumerate}
+	\item $f(4)$ is undefined and $\displaystyle \lim_{x\to4} f(x)=2$
+	\vfill
+	\item $g(3)=2$ and $\displaystyle \lim_{x\to3} g(x)$ does not exist
+	\vfill
+	\item $h(4) = 2$,  $\displaystyle \lim_{x\to4^-} h(x)=0$, and $\displaystyle \lim_{x\to4^+} h(x)=-\infty$
+	\vfill
+	\end{enumerate}
+	
+\item BONUS: The Dirichlet Function is defined as 
+$$f(x) = \left\{ \begin{array}{ll} x \quad \text{if } x \text{ is rational }  \\ 0 \quad \text{otherwise} \end{array} \right. $$
+Is this function continuous at $x=0$?
+\vfill
+\end{enumerate}
+\end{document} 
+
+%%%%%%%%%
+
+\item Find each limit. Include a table of values to illustrate your answer. \\
+
+	\begin{multicols}{2}
+	\begin{enumerate}[itemsep=3cm]
+	\item $\displaystyle \lim_{x\to 0} \left(1+x\right)^{\frac{1}{x}}=$
+	\item $\displaystyle \lim_{\theta \to 0} \frac{\sin(2\theta)}{\theta}=$
+	\item $\displaystyle \lim_{y \to \infty} \frac{\sqrt{y^2+2}}{5y-6}=$
+	\item $\displaystyle \lim_{t \to 1^+} \frac{|1-t|}{1-t}=$
+\end{enumerate}
+\end{multicols}
+\begin{tcolorbox} 
+\textbf{Definitions:}
+
+\begin{itemize} 
+\item A function $f$ is continuous at $c$ if $\displaystyle \lim_{x \to c} f(c) = f(c)$. In other words...
+\vspace{15mm}
+
+\item The limit $L$ of a function $f$ at $c$ exists if $f$ is defined near $c$ (except possibly at $c$ itself), and $\displaystyle \lim_{x\to c^+} f(x) = \lim_{x\to c^-} f(x)$. In other words...
+\vspace{15mm}
+
+%\item \textbf{Intermediate Value Theorem:} Suppose $f$ is continuous on a closed interval $[a,b]$.\\ If $k$ is any number between $f(a)$ and $f(b)$, then there exists at least one number\\ $c$ in $[a,b]$ such that $f(c)=k$.
+
+\end{itemize}
+\end{tcolorbox}
+
+
+
+
+\begin{tcolorbox}
+\textbf{Warm-up: } Solve the following equations for $t$.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(t+1)^2=9$
+\item $tx+x^2=5$
+\end{enumerate}
+\end{multicols}
+\end{tcolorbox}
+
+MINIPAGE
+\noindent\begin{minipage}{0.3\textwidth}% adapt widths of minipages to your needs
+try 1
+\end{minipage}%
+\hspace{40mm}
+\begin{minipage}{0.6\textwidth}
+a) $f'(2)=$\\\
+
+b) $f'(4)=$\\
+
+c) $f'(6)=$\\
+
+d) $f'(7)=$\\
+
+e) $f'(8)=$
+\end{minipage}
