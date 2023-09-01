@@ -1,0 +1,155 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+
+%INSTRUCTOR NOTES
+
+
+\begin{document}
+ Name:
+ \begin{center}\large{1.9 Computing Limits}\end{center}
+
+\begin{tcolorbox}
+\textbf{Warm-up} \\
+Sketch one graph with all of the following features:
+	\begin{enumerate}
+	\item $\displaystyle \lim_{x\to -1^-} f(x)=2$\\
+	\item $\displaystyle \lim_{x\to -1^+} f(x)=0$
+	\item $\displaystyle f(-1)=4$
+	\item $\displaystyle \lim_{x\to \infty}f(x)=4$
+	\end{enumerate}
+
+\end{tcolorbox}
+
+
+\begin{enumerate}
+\item Evaluate the following limits, or state that the limit does not exist.
+\begin{enumerate}
+\item $ \displaystyle \lim_{x\to 3} \frac{x+1}{x+3}$
+\vfill
+\item $ \displaystyle \lim_{b \to 2} e^{4-b^2}-1$
+\vfill
+\item $ \displaystyle \lim_{x\to 3} \frac{x^2-x-6}{x-3}$
+\vfill
+\item $\displaystyle \lim_{r\to-\infty}\frac{r^4+5r^2}{5r+r^3}$
+\vfill
+\newpage
+~
+\item $ \displaystyle \lim_{t \to 4} \frac{t-4}{\sqrt{t}-2}$
+\vfill
+\item $ \displaystyle \lim_{h \to 0} \frac{(3+h)^2-9}{h}$
+\vfill
+\item $ \displaystyle \lim_{z \to 1} \frac{z-1}{z^2-2z+1}$
+\vfill
+\end{enumerate}
+
+\begin{tcolorbox}
+\textbf{Squeeze Theorem} \\
+If $b(x)\leq f(x) \leq a(x)$ for all $x$ close to $x=c$  
+and $\displaystyle \lim_{x\to c} b(x)=L=\lim_{x\to c} a(x)$, then \\
+\vspace{15mm}
+\end{tcolorbox}
+
+\item Evaluate the following limit:\\
+$ \displaystyle \lim_{x\to 0} x^3\cos\left(\frac{1}{x}\right)$
+\vfill
+
+
+
+\item Bonus limits.
+\begin{multicols}{2}
+\begin{enumerate}
+
+%\item $\displaystyle \lim_{x\to5}\frac{x+2}{x+5}$
+%\vfill
+%\item $\displaystyle \lim_{x\to5}\frac{x^2-4x-5}{x-5}$
+%\vfill
+%\item $\displaystyle \lim_{h\to0}\frac{(4+h)^2-16}{h}$
+%\vfill
+
+\item $\displaystyle \lim_{t\to1}\frac{|t|-1}{t-1}$
+%\vfill
+%\item $\displaystyle \lim_{t\to1}\frac{|t-1|}{t-1}$
+%\vfill
+%\newpage
+%\item $\displaystyle \lim_{s\to\infty}\frac{3-s}{\sqrt{5+10s^3}}$
+
+\vfill
+\item $\displaystyle \lim_{x\to4}\frac{x-\sqrt{3x+4}}{4-x}$
+\vfill
+\item $\displaystyle \lim_{n\to\infty}\sqrt{n^2+5n}-n$
+%\vfill
+\item $\displaystyle \lim_{x\to 0}\frac{5\cos x \sin x}{x}$
+
+
+\end{enumerate}
+\end{multicols}
+\end{enumerate}
+
+\end{document} 
+A company charges a flat rate of \$500 to rent up to 100 chairs and every additional chair costs \$4. Draw a graph and find a formula for the cost $C$ as a function of $n$, the number of chairs rented.\\
+%%%%%%%%%
+\begin{tcolorbox}
+\textbf{Warm-up: } Solve the following equations for $t$.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(t+1)^2=9$
+\item $tx+x^2=5$
+\end{enumerate}
+\end{multicols}
+\end{tcolorbox}
+
+MINIPAGE
+\noindent\begin{minipage}{0.3\textwidth}% adapt widths of minipages to your needs
+try 1
+\end{minipage}%
+\hspace{40mm}
+\begin{minipage}{0.6\textwidth}
+a) $f'(2)=$\\\
+
+b) $f'(4)=$\\
+
+c) $f'(6)=$\\
+
+d) $f'(7)=$\\
+
+e) $f'(8)=$
+\end{minipage}
+
+\begin{itemize}
+\item Apply Limit Properties
+\item Use Techniques for Finding Limits:
+	\begin{itemize} 
+	\item Algebraic Manipulation
+	\item Variable substitution
+	\end{itemize}
+\item Understand the big idea behind Squeeze Theorem and apply squeeze theorem to solve limit problems
+\end{itemize}
