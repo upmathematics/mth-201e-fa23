@@ -1,0 +1,119 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+
+ Name:
+ \begin{center}\large{2.1 How do we measure speed?}\end{center}
+
+
+
+
+\begin{tcolorbox}
+\textbf{Definitions}
+
+The \textbf{average velocity} of an object is the change in position per unit change in time. Over time interval $a\leq t \leq b$, where $s(t)$ is the position of the object at time $t$, it is given by 
+	\vspace{10mm}
+
+The \textbf{instantaneous velocity} of an object at a single point in time $t=a$ where position is $s(t)$ is position at time $t$ is 
+
+	
+	\vspace{10mm}
+\end{tcolorbox}
+	
+\begin{enumerate}
+\item In a time of $t$ seconds, a particle moves a distance of $s$ meters from its starting point, where $s=f(t)=t^2+1$. 
+	\begin{enumerate}
+	\item Find the average velocity between $t=2$ and $t=2.1$.
+	\vfill
+	\item Find the average velocity between $t=2$ and $t=2.01$.
+	\vfill
+	\item Find the average velocity between $t=2$ and $t=2.001$.
+	\vfill
+	\item Give your best estimate of the instantaneous velocity of the particle at $t=2$.
+	\end{enumerate}
+
+\item The position of a car traveling along a straight east/west highway at various times is shown in the table below. Positive values of $d$ indicate that the car is east of its starting point, while negative values of $d$ indicate that the car is west of its starting point.\\
+
+\begin{tabular}{l|lllll} 
+time (hours) & 1&2&3&4&5\\
+\hline
+position (miles) & 40 & -10 & 20 & 90 & -50\\
+\end{tabular}
+
+	\begin{enumerate}
+	\item Calculate the average velocity of the car between 1 and 2 hours.
+	\vfill
+	\item Calculate the average velocity of the car between 2 and 4 hours.
+	\vfill
+	\item What does a negative velocity mean?
+	\vfill
+	\end{enumerate}
+
+
+\end{enumerate}
+\end{document} 
+
+%%%%%%%%%
+Learning Objectives:
+\begin{itemize}
+\item How do we measure speed?
+\item Why is the slope value a measurement of average rate of change?
+\item How do we numerically compute average rate of change?
+\item What is the difference between average rate of change and instantaneous rate of change?
+\end{itemize}
+\begin{tcolorbox}
+\textbf{Warm-up: } Solve the following equations for $t$.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(t+1)^2=9$
+\item $tx+x^2=5$
+\end{enumerate}
+\end{multicols}
+\end{tcolorbox}
+
+MINIPAGE
+\noindent\begin{minipage}{0.3\textwidth}% adapt widths of minipages to your needs
+try 1
+\end{minipage}%
+\hspace{40mm}
+\begin{minipage}{0.6\textwidth}
+a) $f'(2)=$\\\
+
+b) $f'(4)=$\\
+
+c) $f'(6)=$\\
+
+d) $f'(7)=$\\
+
+e) $f'(8)=$
+\end{minipage}
