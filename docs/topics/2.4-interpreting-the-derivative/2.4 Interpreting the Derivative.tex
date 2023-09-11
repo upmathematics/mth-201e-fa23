@@ -1,0 +1,152 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+
+ Name:
+ \begin{center}\large{2.4 Interpretations of the Derivative}\end{center}
+
+\begin{enumerate}
+\item The cost of extracting T tons of ore from a copper mine is $C=f(T)$ dollars. 
+	\begin{enumerate}
+	\item What does it mean to say that $f(2000)=310000$? Give units.
+		\vfill
+	\item What does it mean to say that $f'(2000)=100$? Give units.
+		\vfill
+	\end{enumerate}
+	
+\item Let $W(h)$ be an invertible function which tells how many gallons of water an oak tree of height h feet uses in a given 24 hour period. 
+	\begin{enumerate}
+	\item What does $W\left(50\right)$ mean? What are the units?
+	\vfill
+	\item What does $W^{-1}\left(40\right)$ mean? What are the units?
+		\vfill
+	\item What does $W'\left(5\right)=3$ mean? What are the units on the 5 and 3?
+		\vfill
+	\item BONUS: What does $\left(W^{-1}\right)' \left(40\right)$ mean? Would you expect it to be positive or negative?
+	\end{enumerate}
+	
+		\vfill
+\item Low tide at Bandon, OR occurs at about 8am on Jan. 25, 2023, at a height of +2. The tide rises slowly at first, then more quickly, rising the fastest at 12PM, before slowing again. High tide is reached at 3pm.
+	\begin{enumerate}
+	\item Sketch a possible graph of $H = f(t)$, where $H$ is the height of the tide in Bandon (in feet) and $t$ represents the time (in hours) after midnight.\\
+		\vfill
+	
+	\item Explain, in terms of feet and hours, what each of the following represents: \\
+	(i) $f(8) $\hspace{5mm}(ii) $f(12)=5.5$ \hspace{5mm} (iii) $f'(12) = 1.5$\hspace{5mm} (iv) $f'(15)$ \\
+		\vfill
+	\item Use the statements given in parts (iii) and (iv) from above to estimate the height of the tide at 3pm. Is the actual height higher or lower than the estimate?
+		\vfill
+	\end{enumerate}
+	
+\end{enumerate}
+\end{document} 
+
+%%%%%%%%%
+
+
+
+\item Let $N=g(t)$ be the estimated number of alternative fueled vehicles in use in the US, in thousands, where $t$ is the number of years since 2008. Explain the meaning of the following statements:
+	\begin{enumerate}
+	\item $\displaystyle \frac{dg}{dt}\bigg\rvert_3=253$
+	\vfill
+	\item $g^{-1}(1191)=3$
+	\vfill
+	\item $(g^{-1})'(1191)=0.004$
+	\vfill
+	\end{enumerate}
+	
+
+
+\newpage
+
+\rhead{2.4 Interpretations of the Derivative}
+\item Let $f(p)$ represent the daily demand for San Francisco ’49ers T-shirts when the price for a shirt is $p$ dollars. In other words, $f(p)$ gives the number of shirts purchased daily if the selling price is $p$ dollars.
+	\begin{enumerate}
+	\item What are the units of $p$, $f(p)$, and $f'(p)$?\\
+	
+	\item Explain, in terms of shirts and dollars, the practical meaning of the following:\\
+	 i. $f(20) = 150$\\
+	ii. $f'(20)=-5$\\
+	 iii. $f(30)$\\
+	 
+	\item The inverse function, $f^{-1}$, has inputs of \underline{\hspace{3cm}} and outputs of \underline{\hspace{3cm}}.\\
+	
+	\item Give practical interpretations of $f(25)$ and $f'(25)$.\\
+	
+	\end{enumerate}
+\vfill
+\item (Taken from Hughes-Hallett, et. al.) If $t$ is the number of years since 1993, the population, $P$, of China, in billions, can be approximated by the function\\
+$P = f(t) = 1.15(1.014)^t$.
+	\begin{enumerate}
+	\item Calculate and interpret $f(6)$ in the context of this problem.\\
+	
+	\item Use your calculator to estimate $\frac{dP}{dt}$ at $t = 6$, and give an interpretation of this number in the context of this problem.\\
+	
+	\end{enumerate}
+\vfill
+\item Between noon and 6 p.m., the temperature in a town rises continually, but rises at its quickest around 3 p.m., and slowest around noon and 6 p.m.
+	\begin{enumerate}
+	\item Sketch a possible graph of $H = f(t)$, where $H$ is the temperature in the town (in degrees Fahrenheit) and $t$ represents the time (in hours) after 12:00 noon.\\
+	
+	\item Explain, in terms of degrees and hours, what each of the following represents: \\
+	
+	(i) $f'(2)$ \hspace{5mm} (ii) $f'(3) = 7$\hspace{5mm} (iii) $f(4) = 40$ \hspace{5mm}(iv) $f'(4) = 1$\\
+	
+	\item Use the statements given in parts (iii) and (iv) from above to estimate the temperature in the town at 5:30 p.m. Is the actual temperature higher or lower than the estimate?
+	\end{enumerate}
+\begin{tcolorbox}
+\textbf{Warm-up: } Solve the following equations for $t$.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(t+1)^2=9$
+\item $tx+x^2=5$
+\end{enumerate}
+\end{multicols}
+\end{tcolorbox}
+
+MINIPAGE
+\noindent\begin{minipage}{0.3\textwidth}% adapt widths of minipages to your needs
+try 1
+\end{minipage}%
+\hspace{40mm}
+\begin{minipage}{0.6\textwidth}
+a) $f'(2)=$\\\
+
+b) $f'(4)=$\\
+
+c) $f'(6)=$\\
+
+d) $f'(7)=$\\
+
+e) $f'(8)=$
+\end{minipage}

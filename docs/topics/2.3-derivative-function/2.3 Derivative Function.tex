@@ -1,0 +1,73 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+
+ Name:
+ \begin{center}\large{2.3 The Derivative Function}\end{center}
+ 
+\begin{tcolorbox}
+
+\textbf{Definition of Derivative Function:} For any function $f$, we define the derivative function, $f'$, by 
+\vspace{10mm}
+
+
+ \vspace{5mm}
+ The outputs of $f'(x)$ measure \underline{\hspace{10cm}}
+\end{tcolorbox}
+
+\begin{enumerate}
+\item Use the limit definition of derivative to find the derivative function for each of the following functions.
+	\begin{enumerate}
+	\item $\displaystyle f(x)=\frac{1}{x-1}$
+	\vfill
+	\item $\displaystyle g(x)=(3-x)^2$
+	\vfill
+
+	\end{enumerate}
+
+\newpage
+
+\hspace{10px}\\
+
+\item Compute the derivative of each of the following functions using power rule, or state why power rule cannot be applied. 
+	\begin{enumerate}
+	\item $f(x)=5x^{-2.3}$
+	\vfill
+	\item $m(t)=3^t$
+	\vfill
+	\item $\displaystyle k(x)=\frac{x^3}{\sqrt{x}}$
+	\vfill
+	\end{enumerate}
+
+\end{enumerate}
+\end{document} 

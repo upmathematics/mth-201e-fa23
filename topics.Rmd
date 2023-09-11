@@ -40,7 +40,7 @@ create_footer()
 | - | W 9/6 | 2.2 Derivative at a Point | Derivative at a Point<br>[[Handout]](topics/2.2-derivative-at-a-point/2.2 Derivative.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64f8c7741f18f956129bd287){target="_blank"} | Due: Section 1.9 | - | Pgs. 91-95 [CSV] |
 | - | Th 9/7 | Lab 1: Limits and Continuity | - | - | Assigned: Lab 1 | - |
 | - | F 9/8 | **Proficiency Quiz<br>L1, L2\*** | - | Due: Section 2.1 | **Due: Lab 0** | - |
-| **3** | M 9/11 | 2.3 Derivative Function Preview | TBA | Due: Section 2.2 | - | Pgs. 99-104 [CSV] |
+| **3** | M 9/11 | 2.3 Derivative Function Preview | Derivative Function Preview<br>[[Handout]](topics/2.3-derivative-function-preview/2.3 Derivative Function Preview.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64fe787caaf2700e78da672b){target="_blank"} | Due: Section 2.2 | - | Pgs. 99-104 [CSV] |
 | - | W 9/13 | 2.3 Derivative Function | TBA | - | - | - |
 | - | Th 9/14 | 2.4 Interpreting the Derivative | TBA | - |  | Pgs. 108-110 [CSV] |
 | - | F 9/15 | **Proficiency Quiz<br>L2\* (2nd), L3** | - | Due: Section 2.3 | **Due Lab 1** | - |
