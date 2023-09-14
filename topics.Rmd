@@ -41,8 +41,8 @@ create_footer()
 | - | Th 9/7 | Lab 1: Limits and Continuity | - | - | Assigned: Lab 1 | - |
 | - | F 9/8 | **Proficiency Quiz<br>L1, L2\*** | - | Due: Section 2.1 | **Due: Lab 0** | - |
 | **3** | M 9/11 | 2.3 Derivative Function Preview | Derivative Function Preview<br>[[Handout]](topics/2.3-derivative-function-preview/2.3 Derivative Function Preview.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64fe787caaf2700e78da672b){target="_blank"} | Due: Section 2.2 | - | Pgs. 99-104 [CSV] |
-| - | W 9/13 | 2.3 Derivative Function | TBA | - | - | - |
-| - | Th 9/14 | 2.4 Interpreting the Derivative | TBA | - |  | Pgs. 108-110 [CSV] |
+| - | W 9/13 | 2.3 Derivative Function | The Derivative Function<br>[[Handout]](topics/2.3-derivative-function/2.3 Derivative Function.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64fe7f73f0257dc5eed274d4){target="_blank"} | - | - | - |
+| - | Th 9/14 | 2.4 Interpreting the Derivative | Interpretations of the Derivative<br>[[Handout]](topics/2.4-interpreting-the-derivative/2.4 Interpreting the Derivative.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64fe7f73f0257dc5eed274d4){target="_blank"} | - |  | Pgs. 108-110 [CSV] |
 | - | F 9/15 | **Proficiency Quiz<br>L2\* (2nd), L3** | - | Due: Section 2.3 | **Due Lab 1** | - |
 | **4** | M 9/18 | 2.5 Second Derivative | TBA | Due: Section 2.4 | - | Pgs. 115-119 [CSV] |
 | - | W 9/20 | 2.6 Differentiability | TBA | Due: Section 2.5 | - | Pgs. 123-126 [CSV] |
