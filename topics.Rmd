@@ -44,8 +44,8 @@ create_footer()
 | - | W 9/13 | 2.3 Derivative Function | The Derivative Function<br>[[Handout]](topics/2.3-derivative-function/2.3 Derivative Function.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64fe7f73f0257dc5eed274d4){target="_blank"} | - | - | - |
 | - | Th 9/14 | 2.4 Interpreting the Derivative | Interpretations of the Derivative<br>[[Handout]](topics/2.4-interpreting-the-derivative/2.4 Interpreting the Derivative.pdf){target="_blank"}<br>[[Desmos]](https://student.desmos.com/activitybuilder/student-greeting/64fe7f73f0257dc5eed274d4){target="_blank"} | - |  | Pgs. 108-110 [CSV] |
 | - | F 9/15 | **Proficiency Quiz<br>L2\* (2nd), L3** | - | Due: Section 2.3 | **Due Lab 1** | - |
-| **4** | M 9/18 | 2.5 Second Derivative | TBA | Due: Section 2.4 | - | Pgs. 115-119 [CSV] |
-| - | W 9/20 | 2.6 Differentiability | TBA | Due: Section 2.5 | - | Pgs. 123-126 [CSV] |
+| **4** | M 9/18 | 2.5 Second Derivative | Concavity | Due: Section 2.4 | - | Pgs. 115-119 [CSV] |
+| - | W 9/20 | 2.6 Differentiability | Differentiability | Due: Section 2.5 | - | Pgs. 123-126 [CSV] |
 | - | Th 9/21 | Lab 2: Corona Virus Cases | - | - | Assigned: Lab 2 | - |
 | - | F 9/22 | **Proficiency Quiz<br>D1\*, D2** | - | Due: Section 2.6 | - | - |
 | **5** | M 9/25 | 3.1 Powers and Polynomials | TBA | - | - | Pgs. 130-136 [CSV] |
