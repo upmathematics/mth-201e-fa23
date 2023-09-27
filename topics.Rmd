@@ -49,7 +49,7 @@ create_footer()
 | - | Th 9/21 | Lab 2: Corona Virus Cases | - | - | Assigned: Lab 2 | - |
 | - | F 9/22 | **Proficiency Quiz<br>D1\*, D2** | - | Due: Section 2.6 | - | - |
 | **5** | M 9/25 | 3.1 Powers and Polynomials | Derivatives of Polynomials<br>[[Handout]](topics/3.1-powers-and-polynomials/3.1 Derivatives of Polynomials.pdf){target="_blank"} | - | - | Pgs. 130-136 [CSV] |
-| - | W 9/27 | Review: Exponent Properties | TBA | Due: Section 3.1 | - | - |
+| - | W 9/27 | Review: Exponent Properties | Exponent and Log Review<br>[[Handout]](topics/3.2.0-review-exponent-properties/3.2.0 Exponent Review.pdf){target="_blank"} | Due: Section 3.1 | - | - |
 | - | Th 9/28 | 3.2 The Exponential Function | TBA | - | - | Pgs. 140-142 [CSV] |
 | - | F 9/29 | **Proficiency Quiz<br>D1\* (2nd), D3** | - | Due Exponent Review | **Due: Lab 2** | - |
 | **6** | M 10/2 | 3.3 Product and Quotient Rule | TBA | Due: Section 3.2 | - | Pgs. 144-147 [CSV] |
