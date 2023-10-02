@@ -1,0 +1,113 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+
+ Name:
+ \begin{center}\large{3.2 Derivatives of Exponential Functions}\end{center}
+
+
+\begin{tcolorbox}
+
+\textbf{Derivative of Exponential Functions:} For any constant $a$, \\ $$\frac{d}{dx}\left(a^x\right)=$$\\In particular, $$\frac{d}{dx}\left(e^x\right)=$$\\ 
+%\vspace{5mm}
+
+%\vspace{15mm}
+
+\end{tcolorbox}
+
+\begin{enumerate}
+\item Compute the following derivatives, or state that it is not possible with the tools we currently have.
+
+	\begin{multicols}{2}
+	\begin{enumerate}[itemsep=1.6cm]
+	\item $\displaystyle \frac{d}{dx}\left(e^x\right)=$
+
+	\item $\displaystyle \frac{d}{dx}\left(4^x\right)=$
+
+	\item $\displaystyle \frac{d}{dx}\left(x^e\right)=$
+
+	\item $\displaystyle \frac{d}{dx}\left(e^3\right)=$
+
+	\item $\displaystyle \frac{d}{dx}\left(5e^x\right)=$
+
+	\item $\displaystyle \frac{d}{dx}\left(xe^x\right)=$
+
+	\item $\displaystyle \frac{d}{dx}\left(e^{x+2}\right)=$
+
+
+
+	\end{enumerate}
+	\end{multicols}
+\newpage
+~
+	\item Find the equation of the line that is tangent to the graph of the function $\displaystyle g(x)=2e^x$ at $x=1$.
+		\vfill
+	\item An animal population is given by $P(t)=300(1.044)^t$ where t is the number of years since the study of the population began. 
+	\begin{enumerate}
+	\item Find $P(5)$ and interpret your result.
+	\vfill
+	\item Find $P'(5)$ and interpret your result.
+	\vfill
+	\item Find a tangent line to $P(t)$ at $t=5$. Check your equation using Desmos.
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+\end{document} 
+
+%%%%%%%%%
+\begin{tcolorbox}
+\textbf{Warm-up: } Solve the following equations for $t$.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(t+1)^2=9$
+\item $tx+x^2=5$
+\end{enumerate}
+\end{multicols}
+\end{tcolorbox}
+
+MINIPAGE
+\noindent\begin{minipage}{0.3\textwidth}% adapt widths of minipages to your needs
+try 1
+\end{minipage}%
+\hspace{40mm}
+\begin{minipage}{0.6\textwidth}
+a) $f'(2)=$\\\
+
+b) $f'(4)=$\\
+
+c) $f'(6)=$\\
+
+d) $f'(7)=$\\
+
+e) $f'(8)=$
+\end{minipage}
