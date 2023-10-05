@@ -53,8 +53,8 @@ create_footer()
 | - | Th 9/28 | 3.2 The Exponential Function | Derivatives of Exponential Functions<br>[[Handout]](topics/3.2-the-exponential-function/3.2 Exponential Functions.pdf){target="_blank"} | - | - | Pgs. 140-142 [CSV] |
 | - | F 9/29 | **Proficiency Quiz<br>D1\* (2nd), D3** | - | Due Exponent Review | **Due: Lab 2** | - |
 | **6** | M 10/2 | 3.3 Product and Quotient Rule | Product and Quotient Rules<br>[[Handout]](topics/3.3-product-and-quotient-rule/3.3 Product and Quotient Rules.pdf){target="_blank"} | Due: Section 3.2 | - | Pgs. 144-147 [CSV] |
-| - | W 10/4 | 3.4 Chain Rule | Chain Rule | Due: Section 3.3 | - | Pgs. 151-155 [CSV] |
-| - | Th 10/5 | Review: Trigonometry | Trigonometry Review | - | - | - |
+| - | W 10/4 | 3.4 Chain Rule | Chain Rule<br>[[Handout]](topics/3.4-chain-rule/3.4 Chain Rule.pdf){target="_blank"} | Due: Section 3.3 | - | Pgs. 151-155 [CSV] |
+| - | Th 10/5 | Review: Trigonometry | Trigonometry Review<br>[[Handout]](topics/3.5.0-review-trigonometry/Trig Review.pdf){target="_blank"} | - | - | - |
 | - | F 10/6 | **Proficiency Quiz<br>D4, D5\*** | - | Due: Section 3.4 | - | - |
 | **7** | M 10/9 | 3.5 Trig Functions | TBA | Due: Trig Review<br>Due: Inverses Review | - | Pgs. 158-162 [CSV] |
 | - | W 10/11 | 3.6 Chain Rule and Inverse Functions | TBA | Due: Section 3.5 | - | Pgs. 164-167 [CSV] |
