@@ -56,7 +56,7 @@ create_footer()
 | - | W 10/4 | 3.4 Chain Rule | Chain Rule<br>[[Handout]](topics/3.4-chain-rule/3.4 Chain Rule.pdf){target="_blank"} | Due: Section 3.3 | - | Pgs. 151-155 [CSV] |
 | - | Th 10/5 | Review: Trigonometry | Trigonometry Review<br>[[Handout]](topics/3.5.0-review-trigonometry/Trig Review.pdf){target="_blank"} | - | - | - |
 | - | F 10/6 | **Proficiency Quiz<br>D4, D5\*** | - | Due: Section 3.4 | - | - |
-| **7** | M 10/9 | 3.5 Trig Functions | TBA | Due: Trig Review<br>Due: Inverses Review | - | Pgs. 158-162 [CSV] |
+| **7** | M 10/9 | 3.5 Trig Functions | Derivatives of Trigonometric Functions<br>[[Handout]](topics/3.5-trig-functions/3.5 Trig Derivatives.pdf){target="_blank"} | Due: Trig Review<br>Due: Inverses Review | - | Pgs. 158-162 [CSV] |
 | - | W 10/11 | 3.6 Chain Rule and Inverse Functions | TBA | Due: Section 3.5 | - | Pgs. 164-167 [CSV] |
 | - | Th 10/12 | Lab 3: All Derivative Rules | - | - | Assigned: Lab 3 | - |
 | - | F 10/13 | **Proficiency Quiz<br>D5\* (2nd), D6** | - | Due: Section 3.6 | - | - |
