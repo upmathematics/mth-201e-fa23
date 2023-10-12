@@ -58,7 +58,7 @@ create_footer()
 | - | F 10/6 | **Proficiency Quiz<br>D4, D5\*** | - | Due: Section 3.4 | - | - |
 | **7** | M 10/9 | 3.5 Trig Functions | Derivatives of Trigonometric Functions<br>[[Handout]](topics/3.5-trig-functions/3.5 Trig Derivatives.pdf){target="_blank"} | Due: Trig Review<br>Due: Inverses Review | - | Pgs. 158-162 [CSV] |
 | - | W 10/11 | 3.6 Inverse Functions | Derivatives of Inverse Functions<br>[[Handout]](topics/3.6-inverse-functions/3.6 Inverse Functions.pdf){target="_blank"} | Due: Section 3.5 | - | Pgs. 164-167 [CSV] |
-| - | Th 10/12 | Lab 3: All Derivative Rules | - | - | Assigned: Lab 3 | - |
+| - | Th 10/12 | *Canceled* | - | - | Assigned: Lab 3 | - |
 | - | F 10/13 | **Proficiency Quiz<br>D5\* (2nd), D6** | - | Due: Section 3.6 | - | - |
 | **8** | M 10/16 | _Fall Break_ | - | - | - | - |
 | - | W 10/18 | _Fall Break_ | - | - | - | - |
