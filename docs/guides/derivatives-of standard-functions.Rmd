@@ -1,0 +1,43 @@
+---
+title: "Derivatives of Trigonometric Functions"
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+link-citations: yes
+geometry: "left=0.50in,right=0.50in,top=0.50in,bottom=1in"
+header-includes:
+- |
+  \DeclareMathOperator{\sech}{sech}
+---
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sin{(ax)} = a\cos{(ax)}$$
+  $$\frac{d}{dx} \cos{(ax)} = - a\sin{(ax)}$$
+  $$\frac{d}{dx} \tan{(ax)} = a\sec^2{(ax)}$$
+  $$\frac{d}{dx} \cot{(ax)} = - a\csc^2{(ax)}$$
+  $$\frac{d}{dx} \sec{(ax)} = a\sec{(ax)}\tan{(ax)}$$
+  $$\frac{d}{dx} \csc{(ax)} = -a\cot{(ax)}\csc{(ax)}$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \arcsin{(ax)} = \frac{a}{\sqrt{1-a^2x^2}}$$
+  $$\frac{d}{dx} \arccos{(ax)} = - \frac{a}{\sqrt{1-a^2x^2}}$$
+  $$\frac{d}{dx} \arctan{(ax)} = \frac{a}{a^2 x^2 + 1}$$
+  $$\frac{d}{dx} \text{arccot}{(ax)} = - \frac{a}{a^2 x^2 + 1}$$
+  $$\frac{d}{dx} \text{arcsec}{(ax)} = \frac{1}{a x^2 \sqrt{1-\frac{1}{a^2 x^2}}}$$
+  $$\frac{d}{dx} \text{arccsc}{(ax)} = - \frac{1}{a x^2 \sqrt{1-\frac{1}{a^2 x^2}}}$$
+\end{minipage}
+
+$\vspace{20px}$
+
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \sinh{(ax)} = a\cosh{(ax)}$$
+  $$\frac{d}{dx} \cosh{(ax)} = a\sinh{(ax)}$$
+  $$\frac{d}{dx} \tanh{(ax)} = a(\sech{(x)})^2$$
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  $$\frac{d}{dx} \text{arcsinh}{\left(ax\right)} = \frac{a}{\sqrt{1 + a^2 x^2}}$$
+  $$\frac{d}{dx} \text{arccosh}{\left(ax\right)} = \frac{a}{\sqrt{a^2 x^2 - 1}}$$
+  $$\frac{d}{dx} \text{arctanh}{\left(ax\right)} = \frac{a}{1-a^2 x^2}$$
+\end{minipage}

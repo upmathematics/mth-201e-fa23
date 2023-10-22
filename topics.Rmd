@@ -64,7 +64,7 @@ create_footer()
 | - | W 10/18 | _Fall Break_ | - | - | - | - |
 | - | Th 10/19 | _Fall Break_ | - | - | - | - |
 | - | F 10/20 | _Fall Break_ | - | - | - | - |
-| **9** | M 10/23 | 3.7 Implicit Differentiation | TBA | Due: Derivative Practice | - | Pgs. 171-173 [CSV] |
+| **9** | M 10/23 | 3.7 Implicit Differentiation | Implicit Differentiation<br>[[Handout]](topics/3.7-implicit-differentiation/3.7 Implicit Differentiation.pdf){target="_blank"} | Due: Derivative Practice | - | Pgs. 171-173 [CSV] |
 | - | W 10/25 | 3.9 Linear Approximation | TBA | Due: Section 3.7 | - | Pgs. 178-182 [CSV] |
 | - | Th 10/26 | 4.1 Using Derivative | TBA | - | - | Pgs. 192-198 [CSV] |
 | - | F 10/27 | **Proficiency Quiz<br>D7, D8\*** | - | Due: Section 3.9<br>Due: Section 3.10 | **Due: Lab 3** | - |
