@@ -65,14 +65,14 @@ create_footer()
 | - | Th 10/19 | _Fall Break_ | - | - | - | - |
 | - | F 10/20 | _Fall Break_ | - | - | - | - |
 | **9** | M 10/23 | 3.7 Implicit Differentiation | Implicit Differentiation<br>[[Handout]](topics/3.7-implicit-differentiation/3.7 Implicit Differentiation.pdf){target="_blank"} | Due: Derivative Practice | - | Pgs. 171-173 [CSV] |
-| - | W 10/25 | 3.9 Linear Approximation | TBA | Due: Section 3.7 | - | Pgs. 178-182 [CSV] |
-| - | Th 10/26 | 4.1 Using Derivative | TBA | - | - | Pgs. 192-198 [CSV] |
+| - | W 10/25 | *Mid-semester Reflection* | Informal Student Evaluations of Teaching Survey | Due: Section 3.7 | - | Pgs. 178-182 [CSV] |
+| - | Th 10/26 | 3.9 Linear Approximation | TBA | - | - | Pgs. 192-198 [CSV] |
 | - | F 10/27 | **Proficiency Quiz<br>D7, D8\*** | - | Due: Section 3.9<br>Due: Section 3.10 | **Due: Lab 3** | - |
-| **10** | M 10/30 | 4.2 Optimization | TBA | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
-| - | W 11/1 | 4.3 Optimization Cont. | TBA | - | - | Pgs. 212-218 [CSV] |
+| **10** | M 10/30 | 4.1 Using Derivative | TBA | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
+| - | W 11/1 | 4.3 Optimization | TBA | - | - | Pgs. 212-218 [CSV] |
 | - | Th 11/2 | Lab 4: Global Warming | - | - | Assigned: Lab 4 | - |
 | - | F 11/3 | **Proficiency Quiz<br>D8\* (2nd), A1, A2\*** | - | Due: Section 4.2 | - | - |
-| **11** | M 11/6 | 4.3 Optimization | TBA | Due: Section 6.3 | - | - |
+| **11** | M 11/6 | 4.3 Optimization Cont. | TBA | Due: Section 6.3 | - | - |
 | - | W 11/8 | 4.4 Families of Functions | TBA | Due: Section 4.3 | - | Pgs. 224-229 [CSV] |
 | - | Th 11/9 | 4.6 Related Rates | TBA | - | - | Pgs. 243-246 [CSV] |
 | - | F 11/10 | **Proficiency Quiz<br>A2\* (2nd), A3\*** | - | Due: Section 4.4 | **Due: Lab 4** | - |
