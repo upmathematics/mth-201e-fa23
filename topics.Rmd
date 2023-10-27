@@ -67,12 +67,12 @@ create_footer()
 | **9** | M 10/23 | 3.7 Implicit Differentiation | Implicit Differentiation<br>[[Handout]](topics/3.7-implicit-differentiation/3.7 Implicit Differentiation.pdf){target="_blank"} | Due: Derivative Practice | - | Pgs. 171-173 [CSV] |
 | - | W 10/25 | *Mid-semester Reflection* | Informal Student Evaluations of Teaching Survey | Due: Section 3.7 | - | Pgs. 178-182 [CSV] |
 | - | Th 10/26 | 3.9 Linear Approximation | Linear Approximation<br>[[Handout]](topics/3.9-linear-approximation/3.9 Linear Approximation.pdf){target="_blank"} | - | - | Pgs. 192-198 [CSV] |
-| - | F 10/27 | **Proficiency Quiz<br>D7, D8\*** | - | Due: Section 3.9<br>Due: Section 3.10 | **Due: Lab 3** | - |
+| - | F 10/27 | **Proficiency Quiz<br>D7, D8\*** | - | Due: Section 3.9<br>Due: Section 3.10 (Bonus) | **Due: Lab 3** | - |
 | **10** | M 10/30 | 4.1 Using Derivative | TBA | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
 | - | W 11/1 | 4.3 Optimization | TBA | - | - | Pgs. 212-218 [CSV] |
 | - | Th 11/2 | Lab 4: Global Warming | - | - | Assigned: Lab 4 | - |
 | - | F 11/3 | **Proficiency Quiz<br>D8\* (2nd), A1, A2\*** | - | Due: Section 4.2 | - | - |
-| **11** | M 11/6 | 4.3 Optimization Cont. | TBA | Due: Section 6.3 | - | - |
+| **11** | M 11/6 | 4.3 Optimization Cont. | TBA | - | - | - |
 | - | W 11/8 | 4.4 Families of Functions | TBA | Due: Section 4.3 | - | Pgs. 224-229 [CSV] |
 | - | Th 11/9 | 4.6 Related Rates | TBA | - | - | Pgs. 243-246 [CSV] |
 | - | F 11/10 | **Proficiency Quiz<br>A2\* (2nd), A3\*** | - | Due: Section 4.4 | **Due: Lab 4** | - |
@@ -91,7 +91,7 @@ create_footer()
 | **15** | M 12/4 | 6.2 Antiderivatives (Analytically) | TBA | Due: Section 6.1<br>Due: Section 6.2 | - | Pgs. 322-326 [CSV] |
 | - | W 12/6 | 6.4 Fundamental Theorem of Calculus Part 2 | TBA | - | - | Pgs. 335-338 [CSV] |
 | - | Th 12/7 | Review | - | - | - | - |
-| - | F 12/8 | **Proficiency Quiz<br>I2\* (2nd), I3\* (2nd)** | - | Due: Section 6.4 | - | - |
+| - | F 12/8 | **Proficiency Quiz<br>I2\* (2nd), I3\* (2nd)** | - | Due: Section 6.3 (Bonus)<br>Due: Section 6.4 | - | - |
 | **16** | Tu 12/12 | **Final Exam<br>Tu 10:30 AM - 12:30 PM** | - | - | - | - |
 
 <br>
