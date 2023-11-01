@@ -68,8 +68,8 @@ create_footer()
 | - | W 10/25 | *Mid-semester Reflection* | Informal Student Evaluations of Teaching Survey | Due: Section 3.7 | - | Pgs. 178-182 [CSV] |
 | - | Th 10/26 | [3.9 Linear Approximation](class-notes/3.9 Linear Approximation.pdf){target="_blank"} | Linear Approximation<br>[[Handout]](topics/3.9-linear-approximation/3.9 Linear Approximation.pdf){target="_blank"} | - | - | Pgs. 192-198 [CSV] |
 | - | F 10/27 | **Proficiency Quiz<br>D7, D8\*** | - | Due: Section 3.9<br>Due: Section 3.10 (Bonus) | **Due: Lab 3** | - |
-| **10** | M 10/30 | 4.1 Using Derivative | TBA | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
-| - | W 11/1 | 4.3 Optimization | TBA | - | - | Pgs. 212-218 [CSV] |
+| **10** | M 10/30 | 4.1 Using Derivative | Using First and Second Derivatives<br>[[Handout]](topics/4.1-using-derivative/4.1 Using First and Second Derivatives.pdf){target="_blank"} | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
+| - | W 11/1 | 4.2 Optimization | Optimization Part 1<br>[[Handout]](topics/4.2-optimization/4.2 Optimization Part 1.pdf){target="_blank"} | - | - | Pgs. 212-218 [CSV] |
 | - | Th 11/2 | Lab 4: Global Warming | - | - | Assigned: Lab 4 | - |
 | - | F 11/3 | **Proficiency Quiz<br>D8\* (2nd), A1, A2\*** | - | Due: Section 4.2 | - | - |
 | **11** | M 11/6 | 4.3 Optimization Cont. | TBA | - | - | - |
