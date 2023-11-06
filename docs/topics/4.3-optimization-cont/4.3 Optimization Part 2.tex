@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+%This activity aligns with a Desmos activity for exploring families of functions.
+
+ Name:
+ \begin{center}\large{4.3 Optimization Part 2}\end{center}
+
+\begin{enumerate}
+
+\item The product of two nonnegative numbers is 144. What is the minimum value of their sum?
+	
+\vfill
+
+\item A rectangle as one vertex on the origin and the other on the curve $y=e^{-2x}$. Estimate the maximum area of the rectangle.
+\vfill
+
+\item On the same side of a straight river are two towns, and both towns want to build a pumping station S. Where should the pumping station be located to minimize the TOTAL length of pipe used to connect each town to the pumping station?
+
+	\includegraphics [scale=.7]{4_3_pump}
+\vfill
+
+\end{enumerate}
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
