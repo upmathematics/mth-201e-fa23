@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  6 NOV 2023 08:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  9 NOV 2023 11:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"4.3 Optimization Part 2.tex"
-(./4.3 Optimization Part 2.tex
+**"4.6 Related Rates.tex"
+(./4.6 Related Rates.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
@@ -544,8 +544,8 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box114
 )
-No file "4.3 Optimization Part 2".aux.
-\openout1 = `"4.3 Optimization Part 2.aux"'.
+No file "4.6 Related Rates".aux.
+\openout1 = `"4.6 Related Rates.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -609,23 +609,17 @@ LaTeX Font Info:    ... okay on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
 
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<4_3_pump.png, id=4, 283.0575pt x 265.99374pt>
-File: 4_3_pump.png Graphic file (type png)
-<use 4_3_pump.png>
-Package pdftex.def Info: 4_3_pump.png  used on input line 50.
-(pdftex.def)             Requested size: 198.13889pt x 186.19434pt.
-
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -636,25 +630,33 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [1
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./4_3_Pump.png>
-] (./4.3 Optimization Part 2.aux) ) 
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-14.49998pt}.
+
+[2] (./4.6 Related Rates.aux) ) 
 Here is how much of TeX's memory you used:
- 14598 strings out of 476024
- 289381 string characters out of 5794016
- 1853382 words of memory out of 5000000
- 34807 multiletter control sequences out of 15000+600000
+ 14587 strings out of 476024
+ 289152 string characters out of 5794016
+ 1855382 words of memory out of 5000000
+ 34797 multiletter control sequences out of 15000+600000
  517582 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,89p,459b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/t
-exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "4.3 Optimization Part 2.pdf" (1 page, 65019 bytes).
+ 83i,11n,89p,512b,353s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texl
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "4.6 Related Rates.pdf" (2 pages, 52609 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
