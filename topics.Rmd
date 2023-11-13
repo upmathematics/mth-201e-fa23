@@ -69,14 +69,14 @@ create_footer()
 | - | Th 10/26 | [3.9 Linear Approximation](class-notes/3.9 Linear Approximation.pdf){target="_blank"} | Linear Approximation<br>[[Handout]](topics/3.9-linear-approximation/3.9 Linear Approximation.pdf){target="_blank"} | - | - | Pgs. 192-198 [CSV] |
 | - | F 10/27 | **Proficiency Quiz<br>D7, D8\*** | - | Due: Section 3.9<br>Due: Section 3.10 (Bonus) | **Due: Lab 3** | - |
 | **10** | M 10/30 | [4.1 Using Derivative](class-notes/4.1 Using Derivative.pdf){target="_blank"} | Using First and Second Derivatives<br>[[Handout]](topics/4.1-using-derivative/4.1 Using First and Second Derivatives.pdf){target="_blank"} | Due: Section 4.1 | - | Pgs. 203-208 [CSV] |
-| - | W 11/1 | [4.2 Optimization Part 1](class-notes/4.2 Optimization.pdf){target="_blank"} | Optimization Part 1<br>[[Handout]](topics/4.2-optimization-part-1/4.2 Optimization Part 1.pdf){target="_blank"} | - | - | Pgs. 212-218 [CSV] |
+| - | W 11/1 | [4.2 Optimization Part 1](class-notes/4.2 Optimization Part 1.pdf){target="_blank"} | Optimization Part 1<br>[[Handout]](topics/4.2-optimization-part-1/4.2 Optimization Part 1.pdf){target="_blank"} | - | - | Pgs. 212-218 [CSV] |
 | - | Th 11/2 | Lab 4: Global Warming | - | - | Assigned: Lab 4 | - |
 | - | F 11/3 | **Proficiency Quiz<br>D8\* (2nd), A1, A2\*** | - | Due: Section 4.2 | - | - |
-| **11** | M 11/6 | 4.3 Optimization Part 2 | Optimization Part 2<br>[[Handout]](topics/4.2-optimization-part-2/4.2 Optimization Part 2.pdf){target="_blank"} | - | - | - |
+| **11** | M 11/6 | [4.3 Optimization Part 2](class-notes/4.2 Optimization Part 2.pdf){target="_blank"} | Optimization Part 2<br>[[Handout]](topics/4.2-optimization-part-2/4.2 Optimization Part 2.pdf){target="_blank"} | - | - | - |
 | - | W 11/8 | 4.3 Optimization Part 2 Cont. | - | Due: Section 4.3 | - | Pgs. 224-229 [CSV] |
-| - | Th 11/9 | 4.6 Related Rates | Related Rates<br>[[Handout]](topics/4.6-related-rates/4.6 Related Rates.pdf){target="_blank"} | - | - | Pgs. 243-246 [CSV] |
+| - | Th 11/9 | [4.6 Related Rates](class-notes/4.6 Related Rates.pdf){target="_blank"} | Related Rates<br>[[Handout]](topics/4.6-related-rates/4.6 Related Rates.pdf){target="_blank"} | - | - | Pgs. 243-246 [CSV] |
 | - | F 11/10 | **Proficiency Quiz<br>A2\* (2nd), A3\*** | - | Due: Section 4.4 (Bonus) | **Due: Lab 4** | - |
-| **12** | M 11/13 | 4.6 Related Rates Cont. | - | - | - | - |
+| **12** | M 11/13 | [4.6 Related Rates Cont.](class-notes/4.6 Related Rates Cont.pdf){target="_blank"} | - | - | - | - |
 | - | W 11/15 | 4.7 L'Hopital | TBA | Due: Section 4.6 | - | Pgs. 252-256 [CSV] |
 | - | Th 11/16 | 5.1 Distance Traveled | TBA | - | - | Pgs. 272-278 [CSV] |
 | - | F 11/17 | **Proficiency Quiz<br>L4, A3\* (2nd), A4** | - | Due: Section 4.7<br>Due: Section 4.8 | - | - |
