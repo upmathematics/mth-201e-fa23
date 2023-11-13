@@ -76,7 +76,7 @@ create_footer()
 | - | W 11/8 | 4.3 Optimization Part 2 Cont. | - | Due: Section 4.3 | - | Pgs. 224-229 [CSV] |
 | - | Th 11/9 | 4.6 Related Rates | Related Rates<br>[[Handout]](topics/4.6-related-rates/4.6 Related Rates.pdf){target="_blank"} | - | - | Pgs. 243-246 [CSV] |
 | - | F 11/10 | **Proficiency Quiz<br>A2\* (2nd), A3\*** | - | Due: Section 4.4 (Bonus) | **Due: Lab 4** | - |
-| **12** | M 11/13 | 4.6 Related Rates Cont. | TBA | - | - | - |
+| **12** | M 11/13 | 4.6 Related Rates Cont. | - | - | - | - |
 | - | W 11/15 | 4.7 L'Hopital | TBA | Due: Section 4.6 | - | Pgs. 252-256 [CSV] |
 | - | Th 11/16 | 5.1 Distance Traveled | TBA | - | - | Pgs. 272-278 [CSV] |
 | - | F 11/17 | **Proficiency Quiz<br>L4, A3\* (2nd), A4** | - | Due: Section 4.7<br>Due: Section 4.8 | - | - |
