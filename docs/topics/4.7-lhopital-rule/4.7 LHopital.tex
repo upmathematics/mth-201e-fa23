@@ -1,0 +1,105 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+%INSTRUCTOR NOTES
+%This activity aligns with a Desmos activity for exploring families of functions.
+
+ Name:
+ \begin{center}\large{4.7 L'Hopital's Rule}\end{center}
+
+
+\begin{tcolorbox}	
+\textbf{Theorem: L'Hopital's Rule}\\
+Suppose $\displaystyle \lim_{x\to a} \frac{f(x)}{g(x)}$ is given where $f(x)$ and $g(x)$ are differentiable near $a$ and \\
+$$\displaystyle \lim_{x\to a} f(x)= \lim_{x\to a} g(x)=0$$
+ $$OR$$
+  $$\displaystyle \lim_{x\to a} f(x)= \lim_{x\to a} g(x)=\pm \infty.$$
+  
+  Then \\
+  \end{tcolorbox}
+ \begin{tcolorbox} 
+  \textbf{Indeterminate Forms}\\
+When evaluating a limit results in one of the following forms, \\there is not yet enough information to evaluate the limit.
+
+$\displaystyle \frac{0}{0}$ \hspace{5mm} 
+$\displaystyle \frac{\infty}{\infty}$ \hspace{5mm}
+$\displaystyle \frac{-\infty}{-\infty}$ \hspace{5mm}
+$\displaystyle \infty-\infty$ \hspace{5mm}
+$\displaystyle \infty^0$ \hspace{5mm}
+$\displaystyle 1^{\infty}$ \hspace{5mm}
+$\displaystyle 0^0$ \hspace{5mm}
+	\vspace{10mm}
+  \end{tcolorbox}
+  \newpage
+ 
+$\hspace{10px}$ \\
+
+Evaluate the following limits. Be sure to first determine whether L'Hopital's rule applies.
+
+	\begin{enumerate}
+		
+	\item $\displaystyle \lim_{x\to0} \frac{\sin(2x)}{x}$
+	\vfill
+	
+	\item $\displaystyle \lim_{x\to \infty} x^{-2}e^{x}$
+	\vfill
+		\item $\displaystyle \lim_{x\to \infty } \frac{e^{-x}}{\sin x} $
+	\vfill
+	
+	 \item $\displaystyle \lim_{x\to 1 } \frac{\ln x}{x^2-1} $
+	\vfill
+	\item $\displaystyle \lim_{x\to0^+}x\ln x$
+		\vfill
+	\item $\displaystyle \lim_{x\to0}\frac{x+\cos x}{x}$
+		\vfill
+	\item $\displaystyle \lim_{x\to1}\left(1+\sin\left(\frac{3}{x}\right)\right)^x$
+		\vfill	
+	\end{enumerate}
+
+
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item \textbf{Potential Energy} \\For positive $a$, $b$, the potential energy, $U$, of a particle moving along the $x$-axis is $\displaystyle U(x)=b\left(\frac{a^2}{x^2}-\frac{a}{x}\right)+b$, where for $x>0$.
+		\begin{enumerate}
+	\item Find the intercepts and asymptotes. What do they represent in this context?
+	\vfill
+	\item Compute the local maxima and minima. What do they represent in this context?
+	\vfill\vfill\vfill
+	\end{enumerate}
+
+\item \textbf{The Quadratic Family} Consider the function $\displaystyle f(x)=a(x-h)^2+k$ where $a$, $h$, and $k$ are parameters.
+	\begin{enumerate}
+	\item How does changing $a$ impact the shape of the graph?
+	\item How does changing $h$ and $k$ impact the shape of the graph?
+	\item Use calculus to find the critical points of $f$. (Treat $a$, $h$, and $k$ as constants. Your solution may depend on at least one of $a$, $h$, or $k$.) Is the critical point a max or a min? 
+	\item Use calculus to find the inflection points of $f$. (Treat $a$, $h$, and $k$ as constants. Your solution may depend on at least one of $a$, $h$, or $k$.) Explain your results.
+	\end{enumerate}
