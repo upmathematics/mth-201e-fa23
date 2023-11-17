@@ -79,7 +79,7 @@ create_footer()
 | **12** | M 11/13 | [4.6 Related Rates Cont.](class-notes/4.6 Related Rates Cont.pdf){target="_blank"} | - | - | - | - |
 | - | W 11/15 | [4.7 L'Hopital](class-notes/4.7 L'Hopital's Rule.pdf){target="_blank"} | L'Hopital's Rule<br>[[Handout]](topics/4.7-lhopital-rule/4.7 LHopital.pdf){target="_blank"} | Due: Section 4.6 | - | Pgs. 252-256 [CSV] |
 | - | Th 11/16 | [5.1 Distance Traveled](class-notes/5.1 Distance Traveled.pdf){target="_blank"} | TBA | - | - | Pgs. 272-278 [CSV] |
-| - | F 11/17 | **Proficiency Quiz<br>L4, A3\* (2nd), A4** | - | Due: Section 4.7<br>Due: Section 4.8 | - | - |
+| - | F 11/17 | **Proficiency Quiz<br>L4, A3\* (2nd), A4** | - | Due: Section 4.7<br>Due: Section 4.8 (Bonus) | - | - |
 | **13** | M 11/20 | 5.2 Definite Integral | TBA | Due: Section 5.1 | - | Pgs. 283-288 [CSV] |
 | - | W 11/22 | Lab 5: Applications | - | Due: Section 5.2 | Assigned: Lab 5 | - |
 | - | Th 11/23 | _Thanksgiving Vacation_ | - | - | - | - |
