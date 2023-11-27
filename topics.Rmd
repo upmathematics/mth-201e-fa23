@@ -80,11 +80,11 @@ create_footer()
 | - | W 11/15 | [4.7 L'Hopital](class-notes/4.7 L'Hopital's Rule.pdf){target="_blank"} | L'Hopital's Rule<br>[[Handout]](topics/4.7-lhopital-rule/4.7 LHopital.pdf){target="_blank"} | Due: Section 4.6 | - | Pgs. 252-256 [CSV] |
 | - | Th 11/16 | [5.1 Distance Traveled](class-notes/5.1 Distance Traveled.pdf){target="_blank"} | Measuring Distance Traveled<br>[[Handout]](topics/5.1-distance-traveled/5.1 Measuring distance traveled.pdf){target="_blank"} | - | - | Pgs. 272-278 [CSV] |
 | - | F 11/17 | **Proficiency Quiz<br>L4, A3\* (2nd), A4** | - | Due: Section 4.7<br>Due: Section 4.8 (Bonus) | - | - |
-| **13** | M 11/20 | 5.2 Definite Integral | Definite Integral | Due: Section 5.1 | - | Pgs. 283-288 [CSV] |
+| **13** | M 11/20 | 5.2 Definite Integral | Definite Integral<br>[[Handout]](topics/5.1-definite-integral/5.2 Definite Integral.pdf){target="_blank"} | Due: Section 5.1 | - | Pgs. 283-288 [CSV] |
 | - | W 11/22 | Lab 5: Applications | - | Due: Section 5.2 | Assigned: Lab 5 | - |
 | - | Th 11/23 | _Thanksgiving Vacation_ | - | - | - | - |
 | - | F 11/24 | _Thanksgiving Vacation_ | - | - | - | - |
-| **14** | M 11/27 | 5.3 Fundamental Theorem of Calculus Part 1 | TBA | - | - | Pgs. 292-297 [CSV] |
+| **14** | M 11/27 | 5.3 Fundamental Theorem of Calculus Part 1 | The Fundamental Theorem and Interpretations<br>[[Handout 1]](topics/5.3-fundamental-theorem-of-calculus-part-1/5.3 Warm-up.pdf){target="_blank"}<br>[[Handout 2]](topics/5.3-fundamental-theorem-of-calculus-part-1/5.3 Net Change Theorem.pdf){target="_blank"} | - | - | Pgs. 292-297 [CSV] |
 | - | W 11/29 | 5.4 Theorems About Integrals | TBA | Due: Section 5.3 | - | Pgs. 302-309 [CSV] |
 | - | Th 11/30 | 6.1 Antiderivatives (Numerically & Graphically) | TBA | - | - | Pgs. 316-317 [CSV] |
 | - | F 12/1 | **Proficiency Quiz<br>I1, I2\*, I3\*** | - | Due: Section 5.4 | **Due: Lab 5** | - |
