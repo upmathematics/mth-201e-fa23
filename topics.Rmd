@@ -85,7 +85,7 @@ create_footer()
 | - | Th 11/23 | _Thanksgiving Vacation_ | - | - | - | - |
 | - | F 11/24 | _Thanksgiving Vacation_ | - | - | - | - |
 | **14** | M 11/27 | 5.3 Fundamental Theorem of Calculus Part 1 | The Fundamental Theorem and Interpretations<br>[[Handout 1]](topics/5.3-fundamental-theorem-of-calculus-part-1/5.3 Warm-up.pdf){target="_blank"}<br>[[Handout 2]](topics/5.3-fundamental-theorem-of-calculus-part-1/5.3 Net Change Theorem.pdf){target="_blank"} | - | - | Pgs. 292-297 [CSV] |
-| - | W 11/29 | 5.4 Theorems About Integrals | TBA | Due: Section 5.3 | - | Pgs. 302-309 [CSV] |
+| - | W 11/29 | 5.4 Theorems About Integrals | Theorems About Definite Integrals<br>[[Handout]](topics/5.4-theorems-about-integrals/5.4 Theorems about Definite Integrals.pdf){target="_blank"} | Due: Section 5.3 | - | Pgs. 302-309 [CSV] |
 | - | Th 11/30 | 6.1 Antiderivatives (Numerically & Graphically) | TBA | - | - | Pgs. 316-317 [CSV] |
 | - | F 12/1 | **Proficiency Quiz<br>I1, I2\*, I3\*** | - | Due: Section 5.4 | **Due: Lab 5** | - |
 | **15** | M 12/4 | 6.2 Antiderivatives (Analytically) | TBA | Due: Section 6.1<br>Due: Section 6.2 | - | Pgs. 322-326 [CSV] |
