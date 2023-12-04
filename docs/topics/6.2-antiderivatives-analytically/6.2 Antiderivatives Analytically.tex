@@ -1,0 +1,129 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\textwidth = 6.5 in
+\textheight = 9 in
+\oddsidemargin = 0.0 in
+\evensidemargin = 0.0 in
+\topmargin = -23pt
+\headheight = 0.0 in
+\headsep = 0.0 in
+\parskip = 0.2in
+\parindent = 0.0in
+\pagestyle{fancy}
+\pagenumbering{gobble}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+%\includegraphics [height=50mm, width=50mm]{PathInt.jpg}
+\title{Title} 
+
+\begin{document}
+
+ Name:
+ \begin{center}\large{6.2 Derivatives and Antiderivatives}\end{center}
+
+\textbf{Finding anti-derivatives}\\
+Let $f(x)=\cos x$. Find an antiderivative, $F(x)$, so that $F'(x)=\cos x$. Can you find more than one function?
+
+\vfill
+\begin{tcolorbox}
+The \textit{indefinite integral} of $f$ is written as \underline{\hspace{8cm}}\\ %\int f(x)\,dx = F(x)+C,\\
+
+where $F'(x)=f(x)$. Notice that there is a \underline{\hspace{4cm}} of antiderivative\\ 
+functions.
+\end{tcolorbox}
+
+\begin{enumerate}
+\item Evaluate the following antiderivatives.
+	\begin{multicols}{2}
+	\begin{enumerate}[itemsep=1cm]
+	\item $\displaystyle \int 2x\,dx=$
+	\vfill
+	\item $\displaystyle \int x^2\,dx=$
+	\vfill
+	\item $\displaystyle \int x^{28}\,dx=$
+	\vfill
+	\item $\displaystyle \int 3\,dx=$
+	\vfill
+	\end{enumerate}
+	\end{multicols}
+	\vfill
+\begin{tcolorbox}
+\textbf{Power Rule for Integrals}\\
+
+$\displaystyle \int x^n \, dx =$ \underline{\hspace{8cm}}
+\end{tcolorbox}
+	
+
+\item Evaluate more antiderivatives.
+	\begin{multicols}{2}
+		\begin{enumerate}[itemsep=1cm]
+	\item $\displaystyle \int 5e^x\,dx=$
+	\vfill	
+	\item $\displaystyle \int \frac{3}{t}\,dt=$
+	\vfill
+	\item $\displaystyle \int p^2(p+2)\,dp=$
+	\vfill
+	\item $\displaystyle \int \left[\frac{\theta+1}{\theta}+\sec^2 \theta \right]\,d\theta=$
+	\vfill
+	\item $\displaystyle \int e^{5t}\,dt=$
+	\vfill
+	\end{enumerate}
+	\end{multicols}
+	
+\newpage
+
+$\hspace{10px}$\\
+
+\item Look at all of the antiderivatives you already know!
+
+\begin{multicols}{2}
+\begin{enumerate}[itemsep=1cm]
+\item $\displaystyle \int \sin x\,dx=$
+\item $\displaystyle \int \cos x\,dx=$
+\item $\displaystyle \int \sec^2 x\,dx=$
+\item $\displaystyle \int  x^7\,dx=$
+\item $\displaystyle \int\frac{1}{x}\,dx=$
+\item $\displaystyle \int e^x\,dx=$
+\item $\displaystyle \int \frac{1}{1+x^2}\,dx=$
+\item $\displaystyle \int \frac{1}{\sqrt{1-x^2}}\,dx=$
+\end{enumerate}
+\end{multicols}
+\vfill
+\begin{tcolorbox}
+\textbf{Using Antiderivatives to Compute Definite Integrals}\\
+
+$\displaystyle \int_0^3 f(x) \, dx =$ \underline{\hspace{4cm}}
+\end{tcolorbox}
+\vfill
+\item Use an antiderivative to compute the following definite integrals
+
+
+\begin{enumerate}
+\item $\displaystyle \int_1^2 3x\,dx=$
+\vfill
+\item $\displaystyle \int_0^{\frac{\pi}{4}} \sin x\,dx=$
+\vfill
+\end{enumerate}
+
+\item Find the area between the curves $y=x^2$ and $y=2-x^2$.
+\vfill
+\end{enumerate}
+\end{document}
+%%%%%%%%%%%%%%
+
+
+
+
