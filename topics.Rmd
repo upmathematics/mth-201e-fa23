@@ -89,10 +89,10 @@ create_footer()
 | - | Th 11/30 | 6.1 Antiderivatives (Numerically & Graphically) | Antiderivatives Graphically<br>[[Handout]](topics/6.1-antiderivatives-numerically-and-graphically/6.1 Antiderivatives Graphically.pdf){target="_blank"} | - | - | Pgs. 316-317 [CSV] |
 | - | F 12/1 | **Proficiency Quiz<br>I1, I2\*, I3\*** | - | Due: Section 5.4 | **Due: Lab 5** | - |
 | **15** | M 12/4 | 6.2 Antiderivatives (Analytically) | Derivatives and Antiderivatives<br>[[Handout]](topics/6.2-antiderivatives-analytically/6.2 Antiderivatives Analytically.pdf){target="_blank"} | Due: Section 6.1<br>Due: Section 6.2 | - | Pgs. 322-326 [CSV] |
-| - | W 12/6 | 6.4 Fundamental Theorem of Calculus Part 2 | TBA | - | - | Pgs. 335-338 [CSV] |
-| - | Th 12/7 | Review | - | - | - | - |
+| - | W 12/6 | 6.4 Fundamental Theorem of Calculus Part 2 | Fundamental Theorem of Calculus<br>[[Handout]](topics/6.4-fundamental-theorem-of-calculus-part-2/6.4 FTC.pdf){target="_blank"} | - | - | Pgs. 335-338 [CSV] |
+| - | Th 12/7 | Lab 6: Riemann Sums and Integral Practice | - | - | Assigned: Lab 6 | - |
 | - | F 12/8 | **Proficiency Quiz<br>I2\* (2nd), I3\* (2nd)** | - | Due: Section 6.3 (Bonus)<br>Due: Section 6.4 | - | - |
-| **16** | Tu 12/12 | **Final Exam<br>Tu 10:30 AM - 12:30 PM** | - | - | - | - |
+| **16** | Tu 12/12 | **Final Exam/Retakes<br>Tu 10:30 AM - 12:30 PM** | - | - | **Due: Lab 6** | - |
 
 <br>
 
